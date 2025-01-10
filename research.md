@@ -1,8 +1,6 @@
 
 creatures with spells in (19818, 19817, 19194, 18943, 18941)
 ---
-UnknownTable
----
 | name | id | auras | level | proc_chance | 
 | --- | ---: | --- | ---: | --- | 
 | Nefarian | 11583 | 18941 | 63 | ? | 
