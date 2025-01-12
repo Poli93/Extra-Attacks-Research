@@ -1,32 +1,4 @@
--- Mobs with Double Attack
-SELECT abc.*
-FROM (
-    SELECT DISTINCT 
-        b.name, 
-        a.caster_id AS id, 
-        a.spell_id AS auras
-    FROM 
-        spell_unique_caster a
-        JOIN creature_template_wdb b 
-        ON a.caster_id = b.entry
-    WHERE 
-        a.spell_id IN (19818, 19817, 19194, 18943, 18941)
-    
-    UNION
-    
-    SELECT DISTINCT 
-        b.name, 
-        a.id AS id, 
-        a.auras AS auras
-    FROM 
-        creature a
-        JOIN creature_template_wdb b 
-        ON a.id = b.entry
-    WHERE 
-        a.auras IN (19818, 19817, 19194, 18943, 18941)
-) abc;
-
--- Mobs with Double Attack, cased by proc chance
+-- Mobs with Double Attack, cased by proc chance & ppm
 SELECT
     abc.name, 
     abc.id, 
@@ -38,7 +10,15 @@ SELECT
         WHEN abc.auras = 19818 THEN 25
         WHEN abc.auras = 18941 THEN "?"
         ELSE NULL
-    END AS proc_chance
+    END AS proc_chance,
+    CASE 
+        WHEN abc.auras = 18943 THEN ((50 / 100) * 60) / 3
+        WHEN abc.auras = 19194 THEN ((100 / 100) * 60) / 3
+        WHEN abc.auras = 19817 THEN ((10 / 100) * 60) / 3
+        WHEN abc.auras = 19818 THEN ((25 / 100) * 60) / 3
+        WHEN abc.auras = 18941 THEN NULL
+        ELSE NULL
+    END AS ppm
 FROM (
     SELECT DISTINCT 
         b.name, 
