@@ -18,7 +18,7 @@ UnknownTable
 | Emissary Roman'khan | 14862 | 18943 | 50 | 10 | 
 | Highlord Leoric Von Zeldig | 15868 | 18943 | 50 | 10 | 
 | Emperor Vek'nilash | 15275 | 18943 | 50 | 10 | 
-| Anub'Rekhan | 15956 | 18943 | 50 | 10. | 
+| Anub'Rekhan | 15956 | 18943 | 50 | 10 | 
 | Necro Stalker | 16453 | 18943 | 50 | 10 | 
 | Venom Stalker | 15976 | 18943 | 50 | 10 | 
 | Shade of Taerar | 15302 | 18943 | 50 | 10 | 
