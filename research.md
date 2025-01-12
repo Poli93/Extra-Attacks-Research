@@ -6,7 +6,6 @@ UnknownTable
 | name | id | auras | proc_chance | ppm | 
 | --- | ---: | --- | --- | ---: | 
 | Nefarian | 11583 | 18941 | ? | ? | 
-| Lava Annihilator | 11665 | 18941 | ? | ? | 
 | Moam | 15340 | 18941 | ? | ? | 
 | Ouro | 15517 | 18941 | ? | ? | 
 | Lava Annihilator | 11665 | 19194 19195 | 100 | 20 | 
