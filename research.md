@@ -1,3 +1,12 @@
+Related Discussions
+---
+https://us.forums.blizzard.com/en/wow/t/bosses-attacking-multiple-times-in-a-single-game-tick/950010
+
+https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984
+
+https://us.forums.blizzard.com/en/wow/t/maexxna-and-sapphiron-double-attack-hidden-ability/946089
+
+
 
 creatures with Triple Attack (25175)
 ---
@@ -10,8 +19,6 @@ creatures with Triple Attack (25175)
 
 
 creatures with Double Attack (19818, 19817, 19194, 18943, 18941)
----
-creature
 ---
 | name | id | auras | level | zone | proc_chance | ppm | 
 | --- | ---: | --- | ---: | --- | --- | --- | 
