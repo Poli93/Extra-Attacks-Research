@@ -1,5 +1,18 @@
--- Mobs with Triple Attack
-SELECT abc.*
+-- mobs with Triple Attack mobs cased by proc chance, PPM, level & zone
+SELECT DISTINCT
+    sp.name, 
+    sp.id, 
+    sp.auras, 
+    cre.level,
+    map.MapName_Lang_enUS,
+    CASE 
+        WHEN sp.auras = 25175 THEN "?"
+        ELSE NULL
+    END AS proc_chance,
+    CASE 
+        WHEN sp.auras = 25175 THEN "?"
+        ELSE NULL
+    END AS ppm
 FROM (
     SELECT DISTINCT 
         b.name, 
@@ -24,4 +37,6 @@ FROM (
         ON a.id = b.entry
     WHERE 
         a.auras IN (25175)
-) abc;
+) sp, creature cre, db_Map_12340 map
+WHERE sp.id = cre.id
+AND cre.map = map.id
