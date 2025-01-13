@@ -1,22 +1,24 @@
--- Mobs with Double Attack, cased by proc chance & ppm
-SELECT
-    abc.name, 
-    abc.id, 
-    abc.auras,
+-- mobs with Double Attack mobs cased by proc chance, PPM, level & zone
+SELECT DISTINCT
+    sp.name, 
+    sp.id, 
+    sp.auras, 
+    cre.level,
+    map.MapName_Lang_enUS AS zone,
     CASE 
-        WHEN abc.auras = 18943 THEN 50
-        WHEN abc.auras = 19194 THEN 100
-        WHEN abc.auras = 19817 THEN 10
-        WHEN abc.auras = 19818 THEN 25
-        WHEN abc.auras = 18941 THEN "?"
+        WHEN sp.auras = 18943 THEN 50
+        WHEN sp.auras = 19194 THEN 100
+        WHEN sp.auras = 19817 THEN 10
+        WHEN sp.auras = 19818 THEN 25
+        WHEN sp.auras = 18941 THEN "?"
         ELSE NULL
     END AS proc_chance,
     CASE 
-        WHEN abc.auras = 18943 THEN ((50 / 100) * 60) / 3
-        WHEN abc.auras = 19194 THEN ((100 / 100) * 60) / 3
-        WHEN abc.auras = 19817 THEN ((10 / 100) * 60) / 3
-        WHEN abc.auras = 19818 THEN ((25 / 100) * 60) / 3
-        WHEN abc.auras = 18941 THEN NULL
+        WHEN sp.auras = 18943 THEN ROUND(((50 / 100) * 60) / 3, 2)
+        WHEN sp.auras = 19194 THEN ROUND(((100 / 100) * 60) / 3, 2)
+        WHEN sp.auras = 19817 THEN ROUND(((10 / 100) * 60) / 3, 2)
+        WHEN sp.auras = 19818 THEN ROUND(((25 / 100) * 60) / 3, 2)
+        WHEN sp.auras = 18941 THEN "?"
         ELSE NULL
     END AS ppm
 FROM (
@@ -43,4 +45,7 @@ FROM (
         ON a.id = b.entry
     WHERE 
         a.auras IN (19818, 19817, 19194, 18943, 18941)
-) abc;
+) sp, creature cre, db_Map_12340 map
+WHERE sp.id = cre.id
+AND cre.map = map.id
+ORDER BY proc_chance, sp.name DESC
