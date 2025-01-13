@@ -1,4 +1,12 @@
 
+creatures with Triple Attack (25175)
+---
+| name | id | auras | proc_chance | ppm | 
+| --- | ---: | --- | --- | --- | 
+| Qiraji Swarmguard | 15343 | 25175 | ? | ? | 
+| Swarmguard Needler | 15344 | 25175 | ? | ? | 
+| Anubisath Swarmguard | 15538 | 25175 | ? | ? | 
+
 creatures with Double Attack (19818, 19817, 19194, 18943, 18941)
 ---
 | name | id | auras | proc_chance | ppm | 
@@ -191,11 +199,3 @@ creatures with Thrash (3391,3417,8876,12787)
 | Lord Kri | 15511 | 3391 | ? | ? | 
 | Giant Claw Tentacle | 15728 | 3391 | ? | ? | 
 | Unholy Swords | 16216 | 3391 | ? | ? | 
-
-creatures with Triple Attack (25175)
----
-| name | id | auras | proc_chance | ppm | 
-| --- | ---: | --- | --- | --- | 
-| Qiraji Swarmguard | 15343 | 25175 | ? | ? | 
-| Swarmguard Needler | 15344 | 25175 | ? | ? | 
-| Anubisath Swarmguard | 15538 | 25175 | ? | ? | 
