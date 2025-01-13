@@ -42,6 +42,34 @@ creatures with Thrash (3391,3417,8876,12787)
 ---
 | name | id | auras | proc_chance | ppm | 
 | --- | ---: | --- | --- | --- | 
+| Lava Reaver | 12100 | 12787 | 35 | 5.25 | 
+| Timmy the Cruel | 10808 | 12787 | 35 | 5.25 | 
+| Thanthaldis Snowgleam | 13217 | 12787 | 35 | 5.25 | 
+| Jekyll Flandring | 13219 | 12787 | 35 | 5.25 | 
+| Manahound | 8718 | 12787 | 35 | 5.25 | 
+| Twilight Corrupter | 15625 | 12787 | 35 | 5.25 | 
+| Constrictor Vine | 12220 | 8876 | 15 | 2.25 | 
+| Deep Borer | 11789 | 8876 | 15 | 2.25 | 
+| Elder Diemetradon | 9164 | 8876 | 15 | 2.25 | 
+| Frenzied Pterrordax | 9167 | 8876 | 15 | 2.25 | 
+| Ograbisi | 9677 | 8876 | 15 | 2.25 | 
+| Twilight's Hammer Executioner | 9398 | 8876 | 15 | 2.25 | 
+| Verek | 9042 | 8876 | 15 | 2.25 | 
+| Rabid Shardtooth | 7446 | 8876 | 15 | 2.25 | 
+| Comar Villard | 5683 | 8876 | 15 | 2.25 | 
+| Crazed Owlbeast | 7452 | 8876 | 15 | 2.25 | 
+| Firesworn | 12099 | 8876 15733 | 15 | 2.25 | 
+| Firesworn | 12099 | 8876 | 15 | 2.25 | 
+| Diseased Flayer | 8532 | 8876 12539 | 15 | 2.25 | 
+| Fleshflayer Ghoul | 10407 | 8876 18950 | 15 | 2.25 | 
+| Hederine Manastalker | 7462 | 8876 | 15 | 2.25 | 
+| Deadwind Brute | 7369 | 8876 | 15 | 2.25 | 
+| Warpwood Stomper | 11465 | 8876 | 15 | 2.25 | 
+| Soulflayer | 11359 | 8876 | 15 | 2.25 | 
+| Kirith the Damned | 7728 | 8876 | 15 | 2.25 | 
+| Maws | 15571 | 8876 | 15 | 2.25 | 
+| Patchwork Horror | 10414 | 8876 | 15 | 2.25 | 
+| Ravasaur Matriarch | 6581 | 8876 | 15 | 2.25 | 
 | Anvilrage Warden | 8890 | 3417 | 10 | 1.50 | 
 | Nessy | 10942 | 3417 | 10 | 1.50 | 
 | Ambershard Destroyer | 11782 | 3417 | 10 | 1.50 | 
@@ -70,34 +98,6 @@ creatures with Thrash (3391,3417,8876,12787)
 | Slark | 519 | 3417 | 10 | 1.50 | 
 | Defias Knuckleduster | 449 | 3417 | 10 | 1.50 | 
 | Grawmug | 1205 | 3417 | 10 | 1.50 | 
-| Constrictor Vine | 12220 | 8876 | 15 | 2.25 | 
-| Deep Borer | 11789 | 8876 | 15 | 2.25 | 
-| Elder Diemetradon | 9164 | 8876 | 15 | 2.25 | 
-| Frenzied Pterrordax | 9167 | 8876 | 15 | 2.25 | 
-| Ograbisi | 9677 | 8876 | 15 | 2.25 | 
-| Twilight's Hammer Executioner | 9398 | 8876 | 15 | 2.25 | 
-| Verek | 9042 | 8876 | 15 | 2.25 | 
-| Rabid Shardtooth | 7446 | 8876 | 15 | 2.25 | 
-| Comar Villard | 5683 | 8876 | 15 | 2.25 | 
-| Crazed Owlbeast | 7452 | 8876 | 15 | 2.25 | 
-| Firesworn | 12099 | 8876 15733 | 15 | 2.25 | 
-| Firesworn | 12099 | 8876 | 15 | 2.25 | 
-| Diseased Flayer | 8532 | 8876 12539 | 15 | 2.25 | 
-| Fleshflayer Ghoul | 10407 | 8876 18950 | 15 | 2.25 | 
-| Hederine Manastalker | 7462 | 8876 | 15 | 2.25 | 
-| Deadwind Brute | 7369 | 8876 | 15 | 2.25 | 
-| Warpwood Stomper | 11465 | 8876 | 15 | 2.25 | 
-| Soulflayer | 11359 | 8876 | 15 | 2.25 | 
-| Kirith the Damned | 7728 | 8876 | 15 | 2.25 | 
-| Maws | 15571 | 8876 | 15 | 2.25 | 
-| Patchwork Horror | 10414 | 8876 | 15 | 2.25 | 
-| Ravasaur Matriarch | 6581 | 8876 | 15 | 2.25 | 
-| Lava Reaver | 12100 | 12787 | 35 | 5.25 | 
-| Timmy the Cruel | 10808 | 12787 | 35 | 5.25 | 
-| Thanthaldis Snowgleam | 13217 | 12787 | 35 | 5.25 | 
-| Jekyll Flandring | 13219 | 12787 | 35 | 5.25 | 
-| Manahound | 8718 | 12787 | 35 | 5.25 | 
-| Twilight Corrupter | 15625 | 12787 | 35 | 5.25 | 
 | Riverpaw Outrunner | 478 | 3391 | ? | ? | 
 | Edwin VanCleef | 639 | 3391 | ? | ? | 
 | Mr. Smite | 646 | 3391 | ? | ? | 
