@@ -40,3 +40,4 @@ FROM (
 ) sp, creature cre, db_Map_12340 map
 WHERE sp.id = cre.id
 AND cre.map = map.id
+ORDER BY proc_chance DESC
