@@ -4,7 +4,7 @@ SELECT DISTINCT
     sp.id, 
     sp.auras, 
     cre.level,
-    map.MapName_Lang_enUS as zone,
+    map.MapName_enUS as zone,
     CASE 
         WHEN sp.auras = 3417 THEN 10
         WHEN sp.auras = 8876 THEN 15
@@ -43,7 +43,7 @@ FROM (
         ON a.id = b.entry
     WHERE 
         a.auras IN (3391,3417,8876,12787,369079,21919)
-) sp, creature cre, db_Map_12340 map
+) sp, creature cre, db_Map_5875 map
 WHERE sp.id = cre.id
 AND cre.map = map.id
-ORDER BY proc_chance, sp.name DESC
+ORDER BY proc_chance ASC, sp.name ASC, cre.level DESC
