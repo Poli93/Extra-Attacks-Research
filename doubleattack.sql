@@ -4,7 +4,7 @@ SELECT DISTINCT
     sp.id, 
     sp.auras, 
     cre.level,
-    map.MapName_Lang_enUS AS zone,
+    map.MapName_enUS AS zone,
     CASE 
         WHEN sp.auras = 18943 THEN 50
         WHEN sp.auras = 19194 THEN 100
@@ -45,7 +45,7 @@ FROM (
         ON a.id = b.entry
     WHERE 
         a.auras IN (19818, 19817, 19194, 18943, 18941)
-) sp, creature cre, db_Map_12340 map
+) sp, creature cre, db_Map_5875 map
 WHERE sp.id = cre.id
 AND cre.map = map.id
-ORDER BY proc_chance, sp.name DESC
+ORDER BY proc_chance ASC, sp.name ASC, cre.level DESC
