@@ -4,7 +4,7 @@ SELECT DISTINCT
     sp.id, 
     sp.auras, 
     cre.level,
-    map.MapName_enUS,
+    map.MapName_enUS as zone,
     CASE 
         WHEN sp.auras = 25175 THEN "?"
         ELSE NULL
