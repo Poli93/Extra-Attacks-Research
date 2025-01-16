@@ -4,7 +4,7 @@ SELECT DISTINCT
     sp.id, 
     sp.auras, 
     cre.level,
-    map.MapName_Lang_enUS,
+    map.MapName_enUS,
     CASE 
         WHEN sp.auras = 25175 THEN "?"
         ELSE NULL
@@ -37,7 +37,7 @@ FROM (
         ON a.id = b.entry
     WHERE 
         a.auras IN (25175)
-) sp, creature cre, db_Map_12340 map
+) sp, creature cre, db_Map_5875 map
 WHERE sp.id = cre.id
 AND cre.map = map.id
-ORDER BY proc_chance DESC
+ORDER BY proc_chance ASC, sp.name ASC, cre.level DESC
