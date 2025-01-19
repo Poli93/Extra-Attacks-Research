@@ -1,10 +1,15 @@
-Related Discussions
+Notable Discussions
 ---
 https://us.forums.blizzard.com/en/wow/t/bosses-attacking-multiple-times-in-a-single-game-tick/950010
 
 https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984
 
 https://us.forums.blizzard.com/en/wow/t/maexxna-and-sapphiron-double-attack-hidden-ability/946089
+
+https://us.forums.blizzard.com/en/wow/t/mobs-damaging-3-times-in-one-hit/317090
+
+https://www.reddit.com/r/classicwowtbc/comments/pxo4hb/need_help_anyone_else_dealing_with_double_melee/
+
 
 
 
