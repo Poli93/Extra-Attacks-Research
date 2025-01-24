@@ -10,6 +10,8 @@ https://us.forums.blizzard.com/en/wow/t/mobs-damaging-3-times-in-one-hit/317090
 
 https://www.reddit.com/r/classicwowtbc/comments/pxo4hb/need_help_anyone_else_dealing_with_double_melee/
 
+https://www.reddit.com/r/classicwow/comments/mwlvtd/do_raid_bosses_have_wind_fury_now/
+
 
 
 
