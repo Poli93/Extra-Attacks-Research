@@ -14,9 +14,14 @@ https://www.reddit.com/r/classicwow/comments/mwlvtd/do_raid_bosses_have_wind_fur
 
 melee specials proc extra attacks
 
+https://us.forums.blizzard.com/en/wow/t/classic-era-twin-emp-veknilash-thrash-ability/1719134
+
 https://us.forums.blizzard.com/en/wow/t/twins-uppercut/2040457
+
 https://eu.forums.blizzard.com/en/wow/t/emperor-veklinashs-uppercuts-oneshotting-melee-dps/552800
+
 https://www.reddit.com/r/classicwow/comments/joiawa/how_to_not_get_oneshotted_on_twins/?rdt=32881
+
 
 
 
