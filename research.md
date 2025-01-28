@@ -13,6 +13,7 @@ https://www.reddit.com/r/classicwowtbc/comments/pxo4hb/need_help_anyone_else_dea
 https://www.reddit.com/r/classicwow/comments/mwlvtd/do_raid_bosses_have_wind_fury_now/
 
 melee specials proc extra attacks
+
 https://us.forums.blizzard.com/en/wow/t/twins-uppercut/2040457
 https://eu.forums.blizzard.com/en/wow/t/emperor-veklinashs-uppercuts-oneshotting-melee-dps/552800
 
