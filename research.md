@@ -12,6 +12,8 @@ https://www.reddit.com/r/classicwowtbc/comments/pxo4hb/need_help_anyone_else_dea
 
 https://www.reddit.com/r/classicwow/comments/mwlvtd/do_raid_bosses_have_wind_fury_now/
 
+https://www.reddit.com/r/classicwow/comments/z3xenj/possible_bug_sapphiron_did_an_unprecedented/
+
 melee specials proc extra attacks
 
 https://us.forums.blizzard.com/en/wow/t/classic-era-twin-emp-veknilash-thrash-ability/1719134
