@@ -1,4 +1,3 @@
-# Table of Contents
 1. [README](#readme)
 2. [Related Discussions](#related-discussions)
 3. [Triple Attack List](#creatures-with-triple-attack-25175)
