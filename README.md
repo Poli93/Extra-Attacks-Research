@@ -3,7 +3,7 @@
 2. [Related Discussions](#related-discussions)
 3. [Triple Attack List](#creatures-with-triple-attack-25175)
 4. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)
-5. [Thrash List](#creatures-with-thrash)
+5. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)
 
 
 ## README
@@ -114,7 +114,7 @@ https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/
 | Nefarian | 11583 | 18941 | 63 | Blackwing Lair | ? | ? | 
 | Ouro | 15517 | 18941 | 63 | Ahn'Qiraj Temple | ? | ? | 
 
-## Creatures with Thrash <br> (3391, 3417, 8876, 12787)
+## Creatures with Thrash (3391, 3417, 8876, 12787)
 ---
 | name | id | auras | level | zone | proc_chance | ppm | 
 | --- | ---: | --- | ---: | --- | --- | --- | 
