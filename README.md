@@ -1,13 +1,17 @@
 1. [README](#readme)
-2. [Related Discussions](#related-discussions)
-3. [Triple Attack List](#creatures-with-triple-attack-25175)
-4. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)
-5. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)
+2. [Mechanics](#Mechanics)
+3. [Related Discussions](#related-discussions)
+4. [Triple Attack List](#creatures-with-triple-attack-25175)
+5. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)
+6. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)
 
 
 ## README
 ---
 Hey everyone! about a year ago, while researching the "Thrash" ability for my addon in unofficial Hardcore, I stumbled upon another ability called "Double Attack". At the time, I didn't have the opportunity to dig deeper into it due to real-life priorities. But now, that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can use this information to take precautions or even contribute to research further.
+
+## Mechanics
+---
 
 DOUBLE ATTACK
 19194 = 100% proc 3 cd
