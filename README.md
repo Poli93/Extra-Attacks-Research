@@ -34,6 +34,38 @@ THRASH
 ## Related Discussions
 ---
 https://us.forums.blizzard.com/en/wow/t/bosses-attacking-multiple-times-in-a-single-game-tick/950010
+```
+You may be on to something…but it’s also an ability bosses have had since MC. This is the spell used by Sapphiron: wowhead /spell=19818/double-attack
+
+What looks like is happening, when comparing to Sapphiron’s DPS parse logs from before the batching change, is that double attack previously had a ~400ms delay between the two hits, and now it’s much much closer than that.
+
+00:00:34.399 Sapphiron Melee Optimist 2427
+00:00:34.808 Sapphiron Melee Optimist Dodge
+
+00:00:20.214 Sapphiron Melee Optimist 2541
+00:00:20.637 Sapphiron Melee Optimist Miss
+
+00:00:28.372 Sapphiron Melee Ewarlia 2167
+00:00:28.822 Sapphiron Melee Ewarlia Parry
+
+00:01:17.361 Sapphiron Melee Ewarlia 3376 Crushing
+00:01:17.789 Sapphiron Melee Ewarlia Dodge
+
+00:01:41.258 Sapphiron Melee Ewarlia 2312 (B: 132)
+00:01:41.665 Sapphiron Melee Ewarlia Miss
+
+00:02:02.364 Sapphiron Melee Ewarlia 2455 (B: 132)
+00:02:02.763 Sapphiron Melee Ewarlia Dodge
+
+00:03:12.122 Sapphiron Melee Ewarlia 3546 Crushing
+00:03:12.511 Sapphiron Melee Ewarlia Dodge
+
+Analyzing Sapphirons attacks pre-patch, rarely are two attacks ever landing in a very close window. Double Attack is a lot more consistent with the small batching window, based on logs. Logs above are /reports/2GqVLfamQkbZCgJH
+/reports/HjrK9TxfC37QWtB
+/reports/JxZdPrDCLvKjYzhy
+
+It turns out Sapphiron got buffed as a result of the small batching window, and probably other bosses with Double Attack or proc spells, thrash, and things of that nature. While not outright seal-twisting and using the abilities from two different phases at once, it does appear tanks should expect to take burst damage in narrower windows of time from bosses. Sapphiron wont be the only boss parsing 100’s on tanks with the batching change.
+```
 
 https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984
 
