@@ -2,6 +2,23 @@ Readme
 ---
 Hey everyone! about a year ago, while researching the "Thrash" ability for my addon in unofficial Hardcore, I stumbled upon another ability called "Double Attack". At the time, I didn't have the opportunity to dig deeper into it due to real-life priorities. But now, that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can use this information to take precautions or even contribute to research further.
 
+DOUBLE ATTACK
+19194 = 100% proc 3 cd
+18943 = 50% proc 3 cd
+19818 = 25% proc 3 cd
+19817 = 10% proc 3 cd
+
+18941 TRIGGER SPELL
+
+THRASH
+12787 - 35% proc 4 cd
+8876 -15% proc 4 cd
+3417 - 10% proc 4 cd
+
+3391 TRIGGER SPELL
+
+12787 =  melee version
+ if creature has 3391 sniff found only procced spell 
 
 Notable Discussions
 ---
