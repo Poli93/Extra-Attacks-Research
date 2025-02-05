@@ -29,7 +29,10 @@ https://eu.forums.blizzard.com/en/wow/t/emperor-veklinashs-uppercuts-oneshotting
 
 https://www.reddit.com/r/classicwow/comments/joiawa/how_to_not_get_oneshotted_on_twins/?rdt=32881
 
+this comment highlights wowhead doesnt cover this nor anywhere else https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/3
 
+this comment highlights the change perfectly, with the 400ms spell batching removed extra attack mechanics have become more noticable
+https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/2
 
 
 creatures with Triple Attack (25175)
