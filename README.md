@@ -1,3 +1,8 @@
+Readme
+---
+Hey everyone! about a year ago, while researching the "Thrash" ability for my addon in unofficial Hardcore, I stumbled upon another ability called "Double Attack". At the time, I didn't have the opportunity to dig deeper into it due to real-life priorities. But now, that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can use this information to take precautions or even contribute to research further.
+
+
 Notable Discussions
 ---
 https://us.forums.blizzard.com/en/wow/t/bosses-attacking-multiple-times-in-a-single-game-tick/950010
