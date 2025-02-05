@@ -1,7 +1,9 @@
 # Table of Contents
 1. [README](#README)
-2. [Related Discussions](#Related Discussions)
-3. [Triple Attack List](#creatures with Triple Attack (25175))
+1. [Related Discussions](##RelatedDiscussions)
+3. [Triple Attack List](#creatureswithTripleAttack (25175))
+4. [Double Attack List](#creatureswithDoubleAttack (19818, 19817, 19194, 18943, 18941))
+5. [Thrash List](#creatureswithThrash (3391,3417,8876,12787))
 
 ## README
 ---
@@ -25,7 +27,7 @@ THRASH
 12787 =  melee version
  if creature has 3391 sniff found only procced spell 
 
-Related Discussions
+## Related Discussions
 ---
 https://us.forums.blizzard.com/en/wow/t/bosses-attacking-multiple-times-in-a-single-game-tick/950010
 
@@ -57,7 +59,7 @@ this comment highlights the change perfectly, with the 400ms spell batching remo
 https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/2
 
 
-creatures with Triple Attack (25175)
+## creatures with Triple Attack (25175)
 ---
 | name | id | auras | level | zone | proc_chance | ppm | 
 | --- | ---: | --- | ---: | --- | --- | --- | 
@@ -67,7 +69,7 @@ creatures with Triple Attack (25175)
 | Swarmguard Needler | 15344 | 25175 | 61 | Ruins of Ahn'Qiraj | ? | ? | 
 
 
-creatures with Double Attack (19818, 19817, 19194, 18943, 18941)
+## creatures with Double Attack (19818, 19817, 19194, 18943, 18941)
 ---
 | name | id | auras | level | zone | proc_chance | ppm | 
 | --- | ---: | --- | ---: | --- | --- | --- | 
@@ -111,7 +113,7 @@ creatures with Double Attack (19818, 19817, 19194, 18943, 18941)
 | Nefarian | 11583 | 18941 | 63 | Blackwing Lair | ? | ? | 
 | Ouro | 15517 | 18941 | 63 | Ahn'Qiraj Temple | ? | ? | 
 
-creatures with Thrash (3391,3417,8876,12787)
+## creatures with Thrash (3391,3417,8876,12787)
 ---
 | name | id | auras | level | zone | proc_chance | ppm | 
 | --- | ---: | --- | ---: | --- | --- | --- | 
