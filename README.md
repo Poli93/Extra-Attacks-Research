@@ -14,7 +14,7 @@ Hey everyone! about a year ago, while researching the "Thrash" ability for my ad
 ## Mechanics
 ---
 
-#### Double Attack
+### Double Attack
 DOUBLE ATTACK
 19194 = 100% proc 3 cd
 18943 = 50% proc 3 cd
@@ -22,7 +22,7 @@ DOUBLE ATTACK
 19817 = 10% proc 3 cd
 
 18941 TRIGGER SPELL
-
+### Thrash
 THRASH
 12787 - 35% proc 4 cd
 8876 -15% proc 4 cd
