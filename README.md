@@ -1,9 +1,10 @@
 1. [README](#readme)
 2. [Mechanics](#Mechanics)
-3. [Related Discussions](#related-discussions)
-4. [Triple Attack List](#creatures-with-triple-attack-25175)
-5. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)
-6. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)
+   2.1 [Double Attack](#DoubleAttack)
+4. [Related Discussions](#related-discussions)
+5. [Triple Attack List](#creatures-with-triple-attack-25175)
+6. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)
+7. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)
 
 
 ## README
@@ -13,6 +14,7 @@ Hey everyone! about a year ago, while researching the "Thrash" ability for my ad
 ## Mechanics
 ---
 
+#### Double Attack
 DOUBLE ATTACK
 19194 = 100% proc 3 cd
 18943 = 50% proc 3 cd
