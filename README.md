@@ -7,12 +7,15 @@
 7. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)
 
 
+
+
 ## README
 ---
 Hey everyone! about a year ago, while researching the "Thrash" ability for my addon in unofficial Hardcore, I stumbled upon another ability called "Double Attack". At the time, I didn't have the opportunity to dig deeper into it due to real-life priorities. But now, that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can use this information to take precautions or even contribute to research further.
 
 ## Mechanics
 ---
+this research only covers classic Era creatures, examples like Morogrim & Ignis will not be covered here
 
 ### Double Attack
 DOUBLE ATTACK
@@ -23,6 +26,10 @@ DOUBLE ATTACK
 
 18941 TRIGGER SPELL
 ### Thrash
+Thrash Behavior/Mechanics issue:
+- Stacks up to 2
+- Stores procs until instance/server reset
+
 THRASH
 12787 - 35% proc 4 cd
 8876 -15% proc 4 cd
@@ -32,6 +39,22 @@ THRASH
 
 12787 =  melee version
  if creature has 3391 sniff found only procced spell 
+
+ <details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
 
 ## Related Discussions
 ---
@@ -112,9 +135,7 @@ https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/
 | name | id | auras | level | zone | proc_chance | ppm | 
 | --- | ---: | --- | ---: | --- | --- | --- | 
 | Lava Annihilator | 11665 | 19194 19195 | 62 | Molten Core | 100 | 20.00 | 
-| Lava Annihilator | 11665 | 19194 | 62 | Molten Core | 100 | 20.00 | 
 | Lava Annihilator | 11665 | 19194 19195 | 61 | Molten Core | 100 | 20.00 | 
-| Lava Annihilator | 11665 | 19194 | 61 | Molten Core | 100 | 20.00 | 
 | Anub'Rekhan | 15956 | 18943 | 63 | Naxxramas | 50 | 10.00 | 
 | Emissary Roman'khan | 14862 | 18943 | 63 | Kalimdor | 50 | 10.00 | 
 | Emperor Vek'nilash | 15275 | 18943 | 63 | Ahn'Qiraj Temple | 50 | 10.00 | 
