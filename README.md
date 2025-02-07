@@ -1,11 +1,12 @@
 1. [README](#readme)  
 2. [Mechanics](#mechanics)  
-   2.1. [Double/Triple Attack](#double-attack)
-   2.2. [Thrash](#thrash)   
-4. [Related Discussions](#related-discussions)  
-5. [Triple Attack List](#creatures-with-triple-attack-25175)  
-6. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
-7. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)  
+    2.1. [Double/Triple Attack](#double-attack)  
+    2.2. [Thrash](#thrash)  
+3. [Related Discussions](#related-discussions)  
+4. [Triple Attack List](#creatures-with-triple-attack-25175)  
+5. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
+6. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)  
+
 
 ## README
 ---
