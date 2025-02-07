@@ -131,7 +131,7 @@ From personal observations while testing I suspect ID 12787 doesn't proc unless 
 
 
 ## Missing Zone Data
-Following are missing zones in the packet sniff
+Following are zones missing from the packet sniff.
 
 ---
 | Map Name | 
