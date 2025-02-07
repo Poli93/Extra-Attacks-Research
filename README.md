@@ -12,11 +12,11 @@
 ## Disclaimer
 ---
 Following are lists of filtered data for creatures possessing extra attack spells from parsed packet sniffs done during Classic 2019. There may be additional creatures with these abilities that are not included in this list, as they have not been found by a sniff yet.
-This research only covers Classic Era creatures, examples like Morogrim (TBC) & Ignis (Wrath) will not be covered here.
+This research only covers Classic Era creatures, examples like Morogrim (TBC) and Ignis (Wrath) will not be covered here.
 
 ## History
 ---
-While researching "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" for [my addon](https://www.curseforge.com/wow/addons/classic-thrash-tracker) in Unofficial Hardcore, I stumbled upon other extra attack abilities. At the time, I wasn't able to dig deeper into it due to other priorities. But now that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can contribute further to it or use this information as a precaution.
+While researching "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" for my addon ([Classic Thrash Tracker](https://www.curseforge.com/wow/addons/classic-thrash-tracker)) during Unofficial Hardcore, I stumbled upon other extra attack abilities. At the time, I wasn't able to dig deeper into it due to other priorities. But now that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can contribute further to it or use this information as a precaution.
     
 ### Related Discussions
 This comment ([By Patriot-Bigglesworth on WoW US Forums](https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/2)) highlights the change perfectly, with the 400ms spell batching removed extra attack mechanics have become more noticable as spikes in tank damage increased.
