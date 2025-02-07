@@ -11,14 +11,13 @@
 
 ## Disclaimer
 ---
-Following are compiled lists of data from parsed packets sniffs done in Classic 2019, there could be more creatures to have this abilities than has been sniffed. 
-this research only covers classic Era creatures, examples like Morogrim & Ignis will not be covered here
+Following are lists of filtered data from parsed packet sniffs done in Classic 2019. There may be additional creatures with these abilities that are not included in this list, as they have not been found yet.
+This research only covers Classic Era creatures, examples like Morogrim (TBC) & Ignis (Wrath) will not be covered here.
 
 ## History
 ---
-Hey everyone! about a year ago, while researching the "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" ability for [my addon](https://www.curseforge.com/wow/addons/classic-thrash-tracker) in unofficial Hardcore, I stumbled upon (other extra attack abilities) another ability called "Double Attack". At the time, I didn't have the opportunity to dig deeper into it due to real-life priorities. But now, that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can use this information to take precautions or even contribute to research further.
+While researching "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" for [my addon](https://www.curseforge.com/wow/addons/classic-thrash-tracker) in Unofficial Hardcore, I stumbled upon other extra attack abilities. At the time, I wasn't able to dig deeper into it due to other priorities. But now that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can contribute further to it or use this information as precaution.
 
-Following are compiled lists of data from parsed packets sniffs done in Classic 2019, there could be more creatures to have this abilities than has been sniffed. 
 
 ## Mechanics
 ---
