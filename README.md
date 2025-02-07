@@ -135,9 +135,6 @@ From personal observations while testing I suspect ID 12787 doesn't proc unless 
 
  based on that id 12xxx doesn't proc if the creature doesn't melee/being kited I can assume it would also behave like a standard Double Attack and won't proc if the hit is absorbed. 
 
-## Research
----
-
 
 ## Missing Zone Data
 Following zones are missing creature data from the packet sniff.
