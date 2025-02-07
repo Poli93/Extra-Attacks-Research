@@ -18,8 +18,11 @@ This research only covers Classic Era creatures, examples like Morogrim (TBC) & 
 ---
 While researching "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" for [my addon](https://www.curseforge.com/wow/addons/classic-thrash-tracker) in Unofficial Hardcore, I stumbled upon other extra attack abilities. At the time, I wasn't able to dig deeper into it due to other priorities. But now that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can contribute further to it or use this information as a precaution.
 
-## Related Discussions
----
+<details>
+<summary>Related Discussions</summary>
+
+
+### Related Discussions
 https://us.forums.blizzard.com/en/wow/t/bosses-attacking-multiple-times-in-a-single-game-tick/950010
 ```
 You may be on to something…but it’s also an ability bosses have had since MC. This is the spell used by Sapphiron: wowhead /spell=19818/double-attack
@@ -82,6 +85,9 @@ this comment highlights the change perfectly, with the 400ms spell batching remo
 https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/2
 
 
+</details>
+---
+
 
 ## Mechanics
 ---
@@ -120,22 +126,6 @@ From personal observations while testing I suspect ID 12787 doesn't proc unless 
 
 12787 =  melee version
  if creature has 3391 sniff found only procced spell 
-
- <details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
 
 
 ## Creatures with Triple Attack (25175)
