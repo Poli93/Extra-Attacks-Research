@@ -7,8 +7,8 @@
 4. [Research](#research)
 5. [Missing Zone Data](#missing-zone-data)
 6. [Triple Attack List](#creatures-with-triple-attack-25175)  
-7. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
-8. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)
+7. [Double Attack creature list](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
+8. [Thrash Creature List](#creatures-with-thrash-3391-3417-8876-12787)
    
 
 
