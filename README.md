@@ -107,13 +107,13 @@ DOUBLE ATTACK
 18943 = 50% proc 3 cd
 19818 = 25% proc 3 cd
 19817 = 10% proc 3 cd
+- Doesn't proc if the hit is fully absorb.
 
 18941 TRIGGER SPELL
 ### [Thrash](https://www.wowhead.com/classic/spell=3391/thrash)
 **Thrash Mechanics:**
 - Stacks up to 2.
 - Stores procs until instance or server reset.
-
 
 From personal observations while testing I suspect ID 12787 doesn't proc unless the creature melees and cannot be 
 8876 -15% proc 4 cd
