@@ -3,10 +3,13 @@
     2.1. [Related Discussions](#related-discussions)  
 3. [Mechanics](#mechanics)  
     3.1. [Double Attack](#double-attack)  
-    3.2. [Thrash](#thrash)  
-4. [Triple Attack List](#creatures-with-triple-attack-25175)  
-5. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
-6. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)  
+    3.2. [Thrash](#thrash)
+4. [Research](#research)
+5. [Missing Data](#missing-data)
+6. [Triple Attack List](#creatures-with-triple-attack-25175)  
+7. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
+8. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)
+   
 
 
 ## Disclaimer
@@ -123,6 +126,22 @@ From personal observations while testing I suspect ID 12787 doesn't proc unless 
 
  based on that id 12xxx doesn't proc if the creature doesn't melee/being kited I can assume it would also behave like a standard Double Attack and won't proc if the hit is absorbed. 
 
+## Research
+---
+
+
+## Missing Data
+---
+```
+SELECT DISTINCT map.MapName_enUS AS ZONE
+FROM db_map_5875 map
+WHERE map.id <> 0
+AND NOT EXISTS (
+    SELECT 1 
+    FROM creature cre 
+    WHERE cre.map = map.id
+);
+```
 
 ## Creatures with Triple Attack (25175)
 ---
