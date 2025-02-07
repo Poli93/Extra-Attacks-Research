@@ -17,6 +17,11 @@ Hey everyone! about a year ago, while researching the "Thrash" ability for my ad
 ---
 this research only covers classic Era creatures, examples like Morogrim & Ignis will not be covered here
 
+In the context of vanilla/classic WoW an extra attack is not really an additional attack, but instead when you gain an extra attack the game finishes your swing timer immediately so you swing right away and the swing timer resets. This behavior extends to on-next-swing attacks since they follow your swing timer; when you have e.g. Heroic Strike queued and you use an instant attack like Bloodthirst which procs Windfury the Heroic Strike happens immediately instead of an 'extra' white hit assuming you had enough rage for it when the proc occurred.
+
+For in-depth information about Warrior Extra Attacks Mechanics see this wiki entry by Magey.
+https://github.com/magey/classic-warrior/wiki/Windfury-Totem
+
 ### Double Attack
 DOUBLE ATTACK
 19194 = 100% proc 3 cd
