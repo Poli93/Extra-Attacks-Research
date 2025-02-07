@@ -17,17 +17,15 @@ This research only covers Classic Era creatures, examples like Morogrim (TBC) & 
 ## History
 ---
 While researching "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" for [my addon](https://www.curseforge.com/wow/addons/classic-thrash-tracker) in Unofficial Hardcore, I stumbled upon other extra attack abilities. At the time, I wasn't able to dig deeper into it due to other priorities. But now that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can contribute further to it or use this information as a precaution.
-
-<details>
-<summary>Related Discussions</summary>
-
-
+    
 ### Related Discussions
 https://us.forums.blizzard.com/en/wow/t/bosses-attacking-multiple-times-in-a-single-game-tick/950010
 ```
-You may be on to something…but it’s also an ability bosses have had since MC. This is the spell used by Sapphiron: wowhead /spell=19818/double-attack
+You may be on to something… but it’s also an ability bosses have had since MC.
+This is the spell used by Sapphiron: wowhead /spell=19818/double-attack
 
-What looks like is happening, when comparing to Sapphiron’s DPS parse logs from before the batching change, is that double attack previously had a ~400ms delay between the two hits, and now it’s much much closer than that.
+What looks like is happening, when comparing to Sapphiron’s DPS parse logs from before the batching change
+is that double attack previously had a ~400ms delay between the two hits, and now it’s much much closer than that.
 
 00:00:34.399 Sapphiron Melee Optimist 2427
 00:00:34.808 Sapphiron Melee Optimist Dodge
@@ -50,11 +48,14 @@ What looks like is happening, when comparing to Sapphiron’s DPS parse logs fro
 00:03:12.122 Sapphiron Melee Ewarlia 3546 Crushing
 00:03:12.511 Sapphiron Melee Ewarlia Dodge
 
-Analyzing Sapphirons attacks pre-patch, rarely are two attacks ever landing in a very close window. Double Attack is a lot more consistent with the small batching window, based on logs. Logs above are /reports/2GqVLfamQkbZCgJH
+Analyzing Sapphirons attacks pre-patch, rarely are two attacks ever landing in a very close window.
+Double Attack is a lot more consistent with the small batching window, based on logs. Logs above are /reports/2GqVLfamQkbZCgJH
 /reports/HjrK9TxfC37QWtB
 /reports/JxZdPrDCLvKjYzhy
 
-It turns out Sapphiron got buffed as a result of the small batching window, and probably other bosses with Double Attack or proc spells, thrash, and things of that nature. While not outright seal-twisting and using the abilities from two different phases at once, it does appear tanks should expect to take burst damage in narrower windows of time from bosses. Sapphiron wont be the only boss parsing 100’s on tanks with the batching change.
+It turns out Sapphiron got buffed as a result of the small batching window, and probably other bosses with Double Attack or proc spells, thrash, and things of that nature.
+While not outright seal-twisting and using the abilities from two different phases at once, it does appear tanks should expect to take burst damage in narrower windows of time from bosses.
+Sapphiron wont be the only boss parsing 100’s on tanks with the batching change.
 ```
 
 https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984
@@ -83,10 +84,6 @@ this comment highlights wowhead doesnt cover this nor anywhere else https://us.f
 
 this comment highlights the change perfectly, with the 400ms spell batching removed extra attack mechanics have become more noticable
 https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/2
-
-
-</details>
----
 
 
 ## Mechanics
