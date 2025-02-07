@@ -1,5 +1,5 @@
 1. [Disclaimer](#disclaimer)  
-2. [History](#history)  
+2. [About](#About)  
     2.1. [Related Discussions](#related-discussions)  
 3. [Mechanics](#mechanics)  
     3.1. [Double Attack](#double-attack)  
@@ -14,11 +14,12 @@
 Following are lists of filtered data for creatures possessing extra attack spells based on parsed packet sniffs from Classic 2019 that do not exist on Wowhead. There may be additional creatures with these abilities that are not included in this list, as they have not been found by a sniff yet.
 This research only covers Classic Era creatures, examples like Morogrim (TBC) and Ignis (Wrath) will not be covered here.
 
-## History
+## About
 ---
-As 
+some bosses have a thrash or double attack chance, it will have just been unnoticeable with batching, now we can actually see it clearly.
 
-While researching "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" for my addon ([Classic Thrash Tracker](https://www.curseforge.com/wow/addons/classic-thrash-tracker)) during Unofficial Hardcore, I found other extra attack abilities. At the time, I wasn't able to dig deeper into it due to other priorities. But now that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can contribute further to it or use this information as a precaution.
+
+While researching "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" for my addon ([Classic Thrash Tracker](https://www.curseforge.com/wow/addons/classic-thrash-tracker)) during Unofficial Hardcore, I found other extra attack abilities. I wasn't able to dig deeper into it at the time and publish due to other priorities. But now that Classic is back, I've revisited my unfinished research for others to contribute or use as a precaution and uploaded it to GitHub.
     
 ### Related Discussions
 This comment ([By Patriot-Bigglesworth on WoW US Forums](https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/2)) highlights the change perfectly, with the 400ms spell batching removed extra attack mechanics have become more noticable as spikes in tank damage increased.
@@ -118,6 +119,8 @@ From personal observations while testing I suspect ID 12787 doesn't proc unless 
 
 12787 =  melee version
  if creature has 3391 sniff found only procced spell 
+
+ based on that id 12xxx doesn't proc if the creature doesn't melee/being kited I can assume it would also behave like a standard Double Attack and won't proc if the hit is absorbed. 
 
 
 ## Creatures with Triple Attack (25175)
