@@ -11,7 +11,7 @@
 
 ## Disclaimer
 ---
-Following are lists of filtered data for creatures possessing hidden extra attack spells based on parsed packet sniffs from Classic 2019 that do not exist on Wowhead. There may be additional creatures with these abilities that are not included in this list, as they have not been found by a sniff yet.
+Following are lists of filtered data for creatures possessing hidden extra attack spells based on parsed packet sniffs from Classic 2019 that do not exist elsewhere. There may be additional creatures with these abilities that are not included in this list, as they have not been found by a sniff yet.
 This research only covers Classic Era creatures, examples like Morogrim (TBC) and Ignis (Wrath) will not be covered here.
 
 ## About
