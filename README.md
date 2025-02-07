@@ -1,5 +1,5 @@
-1. [Disclaimer](#disclaimer)
-2. [History](#history)
+1. [Disclaimer](#disclaimer)  
+2. [History](#history)  
     2.1. [Related Discussions](#related-discussions)  
 3. [Mechanics](#mechanics)  
     3.1. [Double Attack](#double-attack)  
