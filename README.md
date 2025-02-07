@@ -1,12 +1,12 @@
 1. [Disclaimer](#disclaimer)
 2. [History](#history)
-3. [Related Discussions](#related-discussions)  
-4. [Mechanics](#mechanics)  
-    4.1. [Double Attack](#double-attack)  
-    4.2. [Thrash](#thrash)  
-5. [Triple Attack List](#creatures-with-triple-attack-25175)  
-6. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
-7. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)  
+    2.1. [Related Discussions](#related-discussions)  
+3. [Mechanics](#mechanics)  
+    3.1. [Double Attack](#double-attack)  
+    3.2. [Thrash](#thrash)  
+4. [Triple Attack List](#creatures-with-triple-attack-25175)  
+5. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
+6. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)  
 
 
 ## Disclaimer
@@ -16,62 +16,7 @@ This research only covers Classic Era creatures, examples like Morogrim (TBC) & 
 
 ## History
 ---
-While researching "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" for [my addon](https://www.curseforge.com/wow/addons/classic-thrash-tracker) in Unofficial Hardcore, I stumbled upon other extra attack abilities. At the time, I wasn't able to dig deeper into it due to other priorities. But now that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can contribute further to it or use this information as precaution.
-
-
-## Mechanics
----
-```In the context of vanilla/classic WoW an extra attack is not really an additional attack, but instead when you gain an extra attack the game finishes your swing timer immediately so you swing right away and the swing timer resets. This behavior extends to on-next-swing attacks since they follow your swing timer; when you have e.g. Heroic Strike queued and you use an instant attack like Bloodthirst which procs Windfury the Heroic Strike happens immediately instead of an 'extra' white hit assuming you had enough rage for it when the proc occurred.```
-
-_**For in-depth information about Warrior player extra attack mechanics see [this wiki entry](https://github.com/magey/classic-warrior/wiki/Windfury-Totem) by Magey.**_
-
-### [Double Attack](https://www.wowhead.com/classic/spell=18941/double-attack)
-suspect both Double Attack and Triple Attack share the same mechanics. 
-DOUBLE ATTACK
-19194 = 100% proc 3 cd
-18943 = 50% proc 3 cd
-19818 = 25% proc 3 cd
-19817 = 10% proc 3 cd
-
-18941 TRIGGER SPELL
-### [Thrash](https://www.wowhead.com/classic/spell=3391/thrash)
-**Blizzard's Offical Statement** [(WoW Classic Era - “Not A Bug” List - Updated April 22, 2021)](https://us.forums.blizzard.com/en/wow/t/wow-classic-era-%E2%80%9Cnot-a-bug%E2%80%9D-list-updated-april-22-2021/175887)
-```
-Some monsters have a “Thrash” mechanic and can proc multiple attacks against players in a very short duration.
-Note: Most of these monsters can also “store” these procs and unleash them all several seconds later.
-An example of this is the Princess Theradras encounter in Maraudon.
-The Princess will store her attacks if kited and can land several attacks instantly when she catches up to her target.
-This behavior is consistent with the reference client
-```
-**Thrash Mechanics:**
-- Stacks up to 2
-- Stores procs until instance/server reset
-
-
-From personal observations while testing I suspect ID 12787 doesn't proc unless the creature melees and cannot be 
-8876 -15% proc 4 cd
-3417 - 10% proc 4 cd
-
-3391 TRIGGER SPELL
-
-12787 =  melee version
- if creature has 3391 sniff found only procced spell 
-
- <details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
+While researching "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" for [my addon](https://www.curseforge.com/wow/addons/classic-thrash-tracker) in Unofficial Hardcore, I stumbled upon other extra attack abilities. At the time, I wasn't able to dig deeper into it due to other priorities. But now that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can contribute further to it or use this information as a precaution.
 
 ## Related Discussions
 ---
@@ -135,6 +80,62 @@ this comment highlights wowhead doesnt cover this nor anywhere else https://us.f
 
 this comment highlights the change perfectly, with the 400ms spell batching removed extra attack mechanics have become more noticable
 https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/2
+
+
+
+## Mechanics
+---
+```In the context of vanilla/classic WoW an extra attack is not really an additional attack, but instead when you gain an extra attack the game finishes your swing timer immediately so you swing right away and the swing timer resets. This behavior extends to on-next-swing attacks since they follow your swing timer; when you have e.g. Heroic Strike queued and you use an instant attack like Bloodthirst which procs Windfury the Heroic Strike happens immediately instead of an 'extra' white hit assuming you had enough rage for it when the proc occurred.```
+
+_**For in-depth information about Warrior player extra attack mechanics see [this wiki entry](https://github.com/magey/classic-warrior/wiki/Windfury-Totem) by Magey.**_
+
+### [Double Attack](https://www.wowhead.com/classic/spell=18941/double-attack)
+suspect both Double Attack and Triple Attack share the same mechanics. 
+DOUBLE ATTACK
+19194 = 100% proc 3 cd
+18943 = 50% proc 3 cd
+19818 = 25% proc 3 cd
+19817 = 10% proc 3 cd
+
+18941 TRIGGER SPELL
+### [Thrash](https://www.wowhead.com/classic/spell=3391/thrash)
+**Blizzard's Offical Statement** [(WoW Classic Era - “Not A Bug” List - Updated April 22, 2021)](https://us.forums.blizzard.com/en/wow/t/wow-classic-era-%E2%80%9Cnot-a-bug%E2%80%9D-list-updated-april-22-2021/175887)
+```
+Some monsters have a “Thrash” mechanic and can proc multiple attacks against players in a very short duration.
+Note: Most of these monsters can also “store” these procs and unleash them all several seconds later.
+An example of this is the Princess Theradras encounter in Maraudon.
+The Princess will store her attacks if kited and can land several attacks instantly when she catches up to her target.
+This behavior is consistent with the reference client
+```
+**Thrash Mechanics:**
+- Stacks up to 2
+- Stores procs until instance/server reset
+
+
+From personal observations while testing I suspect ID 12787 doesn't proc unless the creature melees and cannot be 
+8876 -15% proc 4 cd
+3417 - 10% proc 4 cd
+
+3391 TRIGGER SPELL
+
+12787 =  melee version
+ if creature has 3391 sniff found only procced spell 
+
+ <details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
 
 
 ## Creatures with Triple Attack (25175)
