@@ -109,8 +109,8 @@ The Princess will store her attacks if kited and can land several attacks instan
 This behavior is consistent with the reference client
 ```
 **Thrash Mechanics:**
-- Stacks up to 2
-- Stores procs until instance/server reset
+- Stacks up to 2.
+- Stores procs until instance or server reset.
 
 
 From personal observations while testing I suspect ID 12787 doesn't proc unless the creature melees and cannot be 
