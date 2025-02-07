@@ -11,7 +11,7 @@
 
 ## Disclaimer
 ---
-Following are lists of filtered data from parsed packet sniffs done during Classic 2019. There may be additional creatures with these abilities that are not included in this list, as they have not been found yet.
+Following are lists of filtered data for creatures possessing extra attack spells from parsed packet sniffs done during Classic 2019. There may be additional creatures with these abilities that are not included in this list, as they have not been found by a sniff yet.
 This research only covers Classic Era creatures, examples like Morogrim (TBC) & Ignis (Wrath) will not be covered here.
 
 ## History
