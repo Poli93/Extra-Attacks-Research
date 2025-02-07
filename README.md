@@ -1,11 +1,11 @@
 1. [Disclaimer](#disclaimer)  
 2. [Mechanics](#mechanics)  
-    2.1. [Double/Triple Attack](#double-triple-attack)
+    2.1. [Double Attack](#double-attack)  
     2.2. [Thrash](#thrash)  
 3. [Related Discussions](#related-discussions)  
-4. [Triple Attack Creature List](#creatures-with-triple-attack-25175)  
-5. [Double Attack Creature List](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
-6. [Thrash Creature List](#creatures-with-thrash-3391-3417-8876-12787)  
+4. [Triple Attack List](#creatures-with-triple-attack-25175)  
+5. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
+6. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)  
 
 
 ## Disclaimer
@@ -22,7 +22,7 @@ this research only covers classic Era creatures, examples like Morogrim & Ignis 
 
 _**For in-depth information about Warrior player extra attack mechanics see [this wiki entry](https://github.com/magey/classic-warrior/wiki/Windfury-Totem) by Magey.**_
 
-### Double/Triple Attack
+### Double Attack
 DOUBLE ATTACK
 19194 = 100% proc 3 cd
 18943 = 50% proc 3 cd
