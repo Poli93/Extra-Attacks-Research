@@ -69,7 +69,7 @@ Do you have any good source for thinking that Sapphiron has a chance of a “Dou
 ```
 
 <details>
-<summary>Notable Mentions</summary>
+<summary>Other Discussions</summary>
 https://us.forums.blizzard.com/en/wow/t/bosses-attacking-multiple-times-in-a-single-game-tick/950010
 https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984
 https://us.forums.blizzard.com/en/wow/t/maexxna-and-sapphiron-double-attack-hidden-ability/946089
