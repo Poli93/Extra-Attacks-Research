@@ -1,13 +1,10 @@
 1. [README](#readme)
-2. [Mechanics](#Mechanics)
-   2.1 [Double Attack](#DoubleAttack)
+2. [Mechanics](#mechanics)
+   - [Double Attack](#double-attack)
 4. [Related Discussions](#related-discussions)
 5. [Triple Attack List](#creatures-with-triple-attack-25175)
 6. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)
 7. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)
-
-
-
 
 ## README
 ---
@@ -17,10 +14,9 @@ Hey everyone! about a year ago, while researching the "Thrash" ability for my ad
 ---
 this research only covers classic Era creatures, examples like Morogrim & Ignis will not be covered here
 
-In the context of vanilla/classic WoW an extra attack is not really an additional attack, but instead when you gain an extra attack the game finishes your swing timer immediately so you swing right away and the swing timer resets. This behavior extends to on-next-swing attacks since they follow your swing timer; when you have e.g. Heroic Strike queued and you use an instant attack like Bloodthirst which procs Windfury the Heroic Strike happens immediately instead of an 'extra' white hit assuming you had enough rage for it when the proc occurred.
+```In the context of vanilla/classic WoW an extra attack is not really an additional attack, but instead when you gain an extra attack the game finishes your swing timer immediately so you swing right away and the swing timer resets. This behavior extends to on-next-swing attacks since they follow your swing timer; when you have e.g. Heroic Strike queued and you use an instant attack like Bloodthirst which procs Windfury the Heroic Strike happens immediately instead of an 'extra' white hit assuming you had enough rage for it when the proc occurred.```
 
-For in-depth information about Warrior Extra Attacks Mechanics see this wiki entry by Magey.
-https://github.com/magey/classic-warrior/wiki/Windfury-Totem
+_**For in-depth information about Warrior player extra attack mechanics see [this wiki entry](https://github.com/magey/classic-warrior/wiki/Windfury-Totem) by Magey.**_
 
 ### Double Attack
 DOUBLE ATTACK
