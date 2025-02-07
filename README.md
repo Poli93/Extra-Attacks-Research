@@ -59,7 +59,7 @@ While not outright seal-twisting and using the abilities from two different phas
 Sapphiron wont be the only boss parsing 100’s on tanks with the batching change.
 ```
 
-This comment ([By Bigboy-Executus on WoW US Forums](https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/3)) highlights wowhead doesnt cover this nor anywhere else 
+This comment ([By Bigboy-Executus on WoW US Forums](https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/3)) highlights Wowhead doesnt have any data about Double Attack.
 ```
 I don’t see this ability listed under Sapphirons ability list on wowhead.
 I also don’t see Cleave listed so who knows what other abilities are not listed.
