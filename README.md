@@ -1,6 +1,6 @@
 1. [README](#readme)
 2. [Mechanics](#mechanics)
-   - [Double Attack](#double-attack)
+   2.1 [Double Attack](#double-attack)
 4. [Related Discussions](#related-discussions)
 5. [Triple Attack List](#creatures-with-triple-attack-25175)
 6. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)
