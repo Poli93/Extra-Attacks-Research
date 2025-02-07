@@ -19,7 +19,8 @@ This research only covers Classic Era creatures, examples like Morogrim (TBC) & 
 While researching "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" for [my addon](https://www.curseforge.com/wow/addons/classic-thrash-tracker) in Unofficial Hardcore, I stumbled upon other extra attack abilities. At the time, I wasn't able to dig deeper into it due to other priorities. But now that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can contribute further to it or use this information as a precaution.
     
 ### Related Discussions
-https://us.forums.blizzard.com/en/wow/t/bosses-attacking-multiple-times-in-a-single-game-tick/950010
+This comment ([By Patriot-Bigglesworth on WoW US Forums](https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/2)) highlights the change perfectly, with the 400ms spell batching removed extra attack mechanics have become more noticable as spikes in tank damage increased.
+
 ```
 You may be on to something… but it’s also an ability bosses have had since MC.
 This is the spell used by Sapphiron: wowhead /spell=19818/double-attack
@@ -58,32 +59,27 @@ While not outright seal-twisting and using the abilities from two different phas
 Sapphiron wont be the only boss parsing 100’s on tanks with the batching change.
 ```
 
+This comment ([By Bigboy-Executus on WoW US Forums](https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/3)) highlights wowhead doesnt cover this nor anywhere else 
+```
+I don’t see this ability listed under Sapphirons ability list on wowhead. I also don’t see Cleave listed so who knows what other abilities are not listed.
+
+I also don’t see anything linking any of the “Double Attack” abilties I can find on wowhead to any specific mob or any mob at all in fact. Do you have any good source for thinking that Sapphiron has a chance of a “Double Attack”?
+```
+
+<details>
+<summary>Notable Mentions</summary>
+https://us.forums.blizzard.com/en/wow/t/bosses-attacking-multiple-times-in-a-single-game-tick/950010
 https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984
-
 https://us.forums.blizzard.com/en/wow/t/maexxna-and-sapphiron-double-attack-hidden-ability/946089
-
 https://us.forums.blizzard.com/en/wow/t/mobs-damaging-3-times-in-one-hit/317090
-
 https://www.reddit.com/r/classicwowtbc/comments/pxo4hb/need_help_anyone_else_dealing_with_double_melee/
-
 https://www.reddit.com/r/classicwow/comments/mwlvtd/do_raid_bosses_have_wind_fury_now/
-
 https://www.reddit.com/r/classicwow/comments/z3xenj/possible_bug_sapphiron_did_an_unprecedented/
-
-melee specials proc extra attacks
-
 https://us.forums.blizzard.com/en/wow/t/classic-era-twin-emp-veknilash-thrash-ability/1719134
-
-https://us.forums.blizzard.com/en/wow/t/twins-uppercut/2040457
-
-https://eu.forums.blizzard.com/en/wow/t/emperor-veklinashs-uppercuts-oneshotting-melee-dps/552800
-
 https://www.reddit.com/r/classicwow/comments/joiawa/how_to_not_get_oneshotted_on_twins/?rdt=32881
+</details>
 
-this comment highlights wowhead doesnt cover this nor anywhere else https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/3
 
-this comment highlights the change perfectly, with the 400ms spell batching removed extra attack mechanics have become more noticable
-https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/2
 
 
 ## Mechanics
