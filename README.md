@@ -32,7 +32,7 @@ The Princess will store her attacks if kited and can land several attacks instan
 ```
 
 
-While researching "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" for my addon ([Classic Thrash Tracker](https://www.curseforge.com/wow/addons/classic-thrash-tracker)) during Unofficial Hardcore, I found other extra attack abilities. I wasn't able to dig deeper into it at the time and publish due to other priorities. But now that Classic is back, I've revisited my unfinished research for others to contribute or use as a precaution and uploaded it to GitHub.
+Researching "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" for my addon ([Classic Thrash Tracker](https://www.curseforge.com/wow/addons/classic-thrash-tracker)) during Unofficial Hardcore revealed other extra attack abilities. I wasn't able to dig deeper into it at the time and publish due to other priorities. But now that Classic is back, I've revisited my unfinished research for others to contribute or use as a precaution and uploaded it to GitHub.
     
 ### Related Discussions
 This comment ([By Patriot-Bigglesworth on WoW US Forums](https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/2)) highlights the change perfectly, with the 400ms spell batching removed extra attack mechanics have become more noticable as spikes in tank damage increased.
