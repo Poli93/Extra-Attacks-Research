@@ -1,14 +1,20 @@
-1. [Readme](#readme)  
-2. [Mechanics](#mechanics)  
-    2.1. [Double Attack](#double-attack)  
-    2.2. [Thrash](#thrash)  
+1. [Disclaimer](#disclaimer)
+2. [History](#history)
 3. [Related Discussions](#related-discussions)  
-4. [Triple Attack List](#creatures-with-triple-attack-25175)  
-5. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
-6. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)  
+4. [Mechanics](#mechanics)  
+    4.1. [Double Attack](#double-attack)  
+    4.2. [Thrash](#thrash)  
+5. [Triple Attack List](#creatures-with-triple-attack-25175)  
+6. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
+7. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)  
 
 
-## Readme
+## Disclaimer
+---
+Following are compiled lists of data from parsed packets sniffs done in Classic 2019, there could be more creatures to have this abilities than has been sniffed. 
+this research only covers classic Era creatures, examples like Morogrim & Ignis will not be covered here
+
+## History
 ---
 Hey everyone! about a year ago, while researching the "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" ability for [my addon](https://www.curseforge.com/wow/addons/classic-thrash-tracker) in unofficial Hardcore, I stumbled upon (other extra attack abilities) another ability called "Double Attack". At the time, I didn't have the opportunity to dig deeper into it due to real-life priorities. But now, that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can use this information to take precautions or even contribute to research further.
 
@@ -16,8 +22,6 @@ Following are compiled lists of data from parsed packets sniffs done in Classic 
 
 ## Mechanics
 ---
-this research only covers classic Era creatures, examples like Morogrim & Ignis will not be covered here
-
 ```In the context of vanilla/classic WoW an extra attack is not really an additional attack, but instead when you gain an extra attack the game finishes your swing timer immediately so you swing right away and the swing timer resets. This behavior extends to on-next-swing attacks since they follow your swing timer; when you have e.g. Heroic Strike queued and you use an instant attack like Bloodthirst which procs Windfury the Heroic Strike happens immediately instead of an 'extra' white hit assuming you had enough rage for it when the proc occurred.```
 
 _**For in-depth information about Warrior player extra attack mechanics see [this wiki entry](https://github.com/magey/classic-warrior/wiki/Windfury-Totem) by Magey.**_
