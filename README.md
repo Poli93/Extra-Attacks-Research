@@ -157,6 +157,7 @@ Following zones are missing creature data from the packet sniff.
 
 ## Creatures with Triple Attack (25175)
 ---
+creatures with Triple Attack cased by proc chance, PPM, level & zone
 | name | id | auras | level | zone | proc_chance | ppm | 
 | --- | ---: | --- | ---: | --- | --- | --- | 
 | Anubisath Swarmguard | 15538 | 25175 | 62 | Ruins of Ahn'Qiraj | ? | ? | 
