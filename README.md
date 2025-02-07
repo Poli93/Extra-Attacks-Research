@@ -61,9 +61,11 @@ Sapphiron wont be the only boss parsing 100’s on tanks with the batching chang
 
 This comment ([By Bigboy-Executus on WoW US Forums](https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/3)) highlights wowhead doesnt cover this nor anywhere else 
 ```
-I don’t see this ability listed under Sapphirons ability list on wowhead. I also don’t see Cleave listed so who knows what other abilities are not listed.
+I don’t see this ability listed under Sapphirons ability list on wowhead.
+I also don’t see Cleave listed so who knows what other abilities are not listed.
 
-I also don’t see anything linking any of the “Double Attack” abilties I can find on wowhead to any specific mob or any mob at all in fact. Do you have any good source for thinking that Sapphiron has a chance of a “Double Attack”?
+I also don’t see anything linking any of the “Double Attack” abilties I can find on wowhead to any specific mob or any mob at all in fact.
+Do you have any good source for thinking that Sapphiron has a chance of a “Double Attack”?
 ```
 
 <details>
