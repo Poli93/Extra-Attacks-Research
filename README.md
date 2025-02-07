@@ -11,13 +11,13 @@
 
 ## Disclaimer
 ---
-Following are lists of filtered data for creatures possessing extra attack spells from parsed packet sniffs done during Classic 2019. There may be additional creatures with these abilities that are not included in this list, as they have not been found by a sniff yet.
+Following are lists of filtered data for creatures possessing extra attack spells based on parsed packet sniffs from Classic 2019 that do not exist on Wowhead. There may be additional creatures with these abilities that are not included in this list, as they have not been found by a sniff yet.
 This research only covers Classic Era creatures, examples like Morogrim (TBC) and Ignis (Wrath) will not be covered here.
-
-wowhead doesn't cover anything about Double Attack
 
 ## History
 ---
+As 
+
 While researching "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" for my addon ([Classic Thrash Tracker](https://www.curseforge.com/wow/addons/classic-thrash-tracker)) during Unofficial Hardcore, I found other extra attack abilities. At the time, I wasn't able to dig deeper into it due to other priorities. But now that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can contribute further to it or use this information as a precaution.
     
 ### Related Discussions
@@ -61,7 +61,7 @@ While not outright seal-twisting and using the abilities from two different phas
 Sapphiron wont be the only boss parsing 100’s on tanks with the batching change.
 ```
 
-This comment ([By Bigboy-Executus on WoW US Forums](https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/3)) highlights Wowhead doesnt have any data about Double Attack.
+This comment ([By Bigboy-Executus on WoW US Forums](https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/3)) highlights Wowhead doesnt have any data about Double/Triple Attack.
 ```
 I don’t see this ability listed under Sapphirons ability list on wowhead.
 I also don’t see Cleave listed so who knows what other abilities are not listed.
@@ -102,14 +102,6 @@ DOUBLE ATTACK
 
 18941 TRIGGER SPELL
 ### [Thrash](https://www.wowhead.com/classic/spell=3391/thrash)
-**Blizzard's Offical Statement** [(WoW Classic Era - “Not A Bug” List - Updated April 22, 2021)](https://us.forums.blizzard.com/en/wow/t/wow-classic-era-%E2%80%9Cnot-a-bug%E2%80%9D-list-updated-april-22-2021/175887)
-```
-Some monsters have a “Thrash” mechanic and can proc multiple attacks against players in a very short duration.
-Note: Most of these monsters can also “store” these procs and unleash them all several seconds later.
-An example of this is the Princess Theradras encounter in Maraudon.
-The Princess will store her attacks if kited and can land several attacks instantly when she catches up to her target.
-This behavior is consistent with the reference client
-```
 **Thrash Mechanics:**
 - Stacks up to 2.
 - Stores procs until instance or server reset.
