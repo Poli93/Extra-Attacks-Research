@@ -1,4 +1,4 @@
-1. [Disclaimer](#disclaimer)  
+81. [Disclaimer](#disclaimer)  
 2. [History](#history)  
     2.1. [Related Discussions](#related-discussions)  
 3. [Mechanics](#mechanics)  
@@ -88,7 +88,7 @@ https://www.reddit.com/r/classicwow/comments/joiawa/how_to_not_get_oneshotted_on
 ---
 ```In the context of vanilla/classic WoW an extra attack is not really an additional attack, but instead when you gain an extra attack the game finishes your swing timer immediately so you swing right away and the swing timer resets. This behavior extends to on-next-swing attacks since they follow your swing timer; when you have e.g. Heroic Strike queued and you use an instant attack like Bloodthirst which procs Windfury the Heroic Strike happens immediately instead of an 'extra' white hit assuming you had enough rage for it when the proc occurred.```
 
-_**For in-depth information about Warrior player extra attack mechanics see [this wiki entry](https://github.com/magey/classic-warrior/wiki/Windfury-Totem) by Magey.**_
+_**For in-depth information about player extra attack mechanics see [this wiki entry](https://github.com/magey/classic-warrior/wiki/Windfury-Totem) by Magey.**_
 
 ### [Double Attack](https://www.wowhead.com/classic/spell=18941/double-attack)
 suspect both Double Attack and Triple Attack share the same mechanics. 
