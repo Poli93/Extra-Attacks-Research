@@ -22,6 +22,15 @@ This research only covers Classic Era creatures, examples like Morogrim (TBC) an
 ---
 some bosses have a thrash or double attack chance, it will have just been unnoticeable with batching, now we can actually see it clearly.
 
+Blizzard Official Statement
+https://us.forums.blizzard.com/en/wow/t/wow-classic-era-%E2%80%9Cnot-a-bug%E2%80%9D-list-updated-april-22-2021/175887
+```
+Some monsters have a “Thrash” mechanic and can proc multiple attacks against players in a very short duration.
+Note: Most of these monsters can also “store” these procs and unleash them all several seconds later.
+ An example of this is the Princess Theradras encounter in Maraudon.
+The Princess will store her attacks if kited and can land several attacks instantly when she catches up to her target. This behavior is consistent with the reference client
+```
+
 
 While researching "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" for my addon ([Classic Thrash Tracker](https://www.curseforge.com/wow/addons/classic-thrash-tracker)) during Unofficial Hardcore, I found other extra attack abilities. I wasn't able to dig deeper into it at the time and publish due to other priorities. But now that Classic is back, I've revisited my unfinished research for others to contribute or use as a precaution and uploaded it to GitHub.
     
