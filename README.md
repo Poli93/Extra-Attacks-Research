@@ -5,7 +5,7 @@
     3.1. [Double Attack](#double-attack)  
     3.2. [Thrash](#thrash)
 4. [Research](#research)
-5. [Missing Data](#missing-data)
+5. [Missing Zone Data](#missing-zone-data)
 6. [Triple Attack List](#creatures-with-triple-attack-25175)  
 7. [Double Attack List](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
 8. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)
@@ -130,18 +130,23 @@ From personal observations while testing I suspect ID 12787 doesn't proc unless 
 ---
 
 
-## Missing Data
+## Missing Zone Data
 ---
-```
-SELECT DISTINCT map.MapName_enUS AS ZONE
-FROM db_map_5875 map
-WHERE map.id <> 0
-AND NOT EXISTS (
-    SELECT 1 
-    FROM creature cre 
-    WHERE cre.map = map.id
-);
-```
+| Map Name | 
+| --- | 
+| <unused> Monastery | 
+| <unused>StormwindPrison | 
+| Azshara Crater | 
+| CashTest | 
+| Caverns of Time | 
+| Collin's Test | 
+| Development Land | 
+| Emerald Dream | 
+| Gnomeregan | 
+| Horde PVP Barracks | 
+| Scott Test | 
+| Testing | 
+
 
 ## Creatures with Triple Attack (25175)
 ---
