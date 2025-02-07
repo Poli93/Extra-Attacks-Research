@@ -1,4 +1,4 @@
-1. [Disclaimer](#disclaimer)  
+1. [Readme](#readme)  
 2. [Mechanics](#mechanics)  
     2.1. [Double Attack](#double-attack)  
     2.2. [Thrash](#thrash)  
@@ -8,11 +8,11 @@
 6. [Thrash List](#creatures-with-thrash-3391-3417-8876-12787)  
 
 
-## Disclaimer
+## Readme
 ---
-Hey everyone! about a year ago, while researching the "Thrash" ability for my addon in unofficial Hardcore, I stumbled upon another ability called "Double Attack". At the time, I didn't have the opportunity to dig deeper into it due to real-life priorities. But now, that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can use this information to take precautions or even contribute to research further.
+Hey everyone! about a year ago, while researching the "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" ability for [my addon](https://www.curseforge.com/wow/addons/classic-thrash-tracker) in unofficial Hardcore, I stumbled upon (other extra attack abilities) another ability called "Double Attack". At the time, I didn't have the opportunity to dig deeper into it due to real-life priorities. But now, that Classic is back, I've revisited my unfinished research and uploaded it to GitHub. Hopefully, others can use this information to take precautions or even contribute to research further.
 
-Following are compiled lists of data from parsed packets sniffs done in Classic 2019, there could be more creatures to have this abilities that has been sniffed. 
+Following are compiled lists of data from parsed packets sniffs done in Classic 2019, there could be more creatures to have this abilities than has been sniffed. 
 
 ## Mechanics
 ---
@@ -22,7 +22,8 @@ this research only covers classic Era creatures, examples like Morogrim & Ignis 
 
 _**For in-depth information about Warrior player extra attack mechanics see [this wiki entry](https://github.com/magey/classic-warrior/wiki/Windfury-Totem) by Magey.**_
 
-### Double Attack
+### [Double Attack](https://www.wowhead.com/classic/spell=18941/double-attack)
+suspect both Double Attack and Triple Attack share the same mechanics. 
 DOUBLE ATTACK
 19194 = 100% proc 3 cd
 18943 = 50% proc 3 cd
@@ -30,13 +31,21 @@ DOUBLE ATTACK
 19817 = 10% proc 3 cd
 
 18941 TRIGGER SPELL
-### Thrash
-Thrash Behavior/Mechanics issue:
+### [Thrash](https://www.wowhead.com/classic/spell=3391/thrash)
+**Blizzard's Offical Statement** [(WoW Classic Era - “Not A Bug” List - Updated April 22, 2021)](https://us.forums.blizzard.com/en/wow/t/wow-classic-era-%E2%80%9Cnot-a-bug%E2%80%9D-list-updated-april-22-2021/175887)
+```
+Some monsters have a “Thrash” mechanic and can proc multiple attacks against players in a very short duration.
+Note: Most of these monsters can also “store” these procs and unleash them all several seconds later.
+An example of this is the Princess Theradras encounter in Maraudon.
+The Princess will store her attacks if kited and can land several attacks instantly when she catches up to her target.
+This behavior is consistent with the reference client
+```
+**Thrash Mechanics:**
 - Stacks up to 2
 - Stores procs until instance/server reset
 
-THRASH
-12787 - 35% proc 4 cd
+
+From personal observations while testing I suspect ID 12787 doesn't proc unless the creature melees and cannot be 
 8876 -15% proc 4 cd
 3417 - 10% proc 4 cd
 
