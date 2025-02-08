@@ -19,7 +19,7 @@ This research only covers Classic Era creatures, examples like Morogrim (TBC) an
 
 ## About
 ---
-According to Blizzard's Official Statement ([Oct 2019 By Aggrend on WoW Classic Era - “Not A Bug” List - Updated April 22, 2021](https://us.forums.blizzard.com/en/wow/t/wow-classic-era-%E2%80%9Cnot-a-bug%E2%80%9D-list-updated-april-22-2021/175887/139))
+According to Blizzard's Official Statement ([By Aggrend on WoW Classic Era - “Not A Bug” List On Oct 2019](https://us.forums.blizzard.com/en/wow/t/wow-classic-era-%E2%80%9Cnot-a-bug%E2%80%9D-list-updated-april-22-2021/175887/139))
 ```
 Some monsters have a “Thrash” mechanic and can proc multiple attacks against players in a very short duration.
 Note: Most of these monsters can also “store” these procs and unleash them all several seconds later.
