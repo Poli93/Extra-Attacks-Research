@@ -1,5 +1,5 @@
 1. [Disclaimer](#disclaimer)  
-2. [About](#About)  
+2. [About](#about)  
     2.1. [Related Discussions](#related-discussions)  
 3. [Mechanics](#mechanics)  
     3.1. [Double Attack](#double-attack)  
@@ -19,19 +19,16 @@ This research only covers Classic Era creatures, examples like Morogrim (TBC) an
 
 ## About
 ---
-some bosses have a thrash or double attack chance, it will have just been unnoticeable with batching, now we can actually see it clearly.
-
-Blizzard Official Statement
-https://us.forums.blizzard.com/en/wow/t/wow-classic-era-%E2%80%9Cnot-a-bug%E2%80%9D-list-updated-april-22-2021/175887
+According to Blizzard's Official Statement ([Oct 2019 By Aggrend on WoW Classic Era - “Not A Bug” List - Updated April 22, 2021](https://us.forums.blizzard.com/en/wow/t/wow-classic-era-%E2%80%9Cnot-a-bug%E2%80%9D-list-updated-april-22-2021/175887/139))
 ```
 Some monsters have a “Thrash” mechanic and can proc multiple attacks against players in a very short duration.
 Note: Most of these monsters can also “store” these procs and unleash them all several seconds later.
  An example of this is the Princess Theradras encounter in Maraudon.
 The Princess will store her attacks if kited and can land several attacks instantly when she catches up to her target. This behavior is consistent with the reference client
 ```
-
-
-Researching "[Thrash](https://wowpedia.fandom.com/wiki/Thrash_(proc))" for my addon ([Classic Thrash Tracker](https://www.curseforge.com/wow/addons/classic-thrash-tracker)) during Unofficial Hardcore revealed other extra attack abilities. I wasn't able to dig deeper into them at the time and publish due to other priorities. But now that Classic is back, I've revisited my unfinished research for others to contribute or use as a precaution and uploaded it to GitHub.
+Some creatures have either Thrash or a hidden extra attack mechanic, those hidden mechanics were mostly unnoticied with the 400ms batching, but as Blizzard removed batching in WoW Classic these mechanics have become easily noticeable.  
+While gathering data/researching  for my addon ([Classic Thrash Tracker](https://www.curseforge.com/wow/addons/classic-thrash-tracker)) during Unofficial Hardcore I found other extra attack abilities that weren't documentated elsewhere besides a couple of [discussions by players on different platforms](#related-discussions). At the time, I wasn't able to gather my data and publish due to other priorities, but now that Classic is back, I've gathered my work for others to take as a precaution or contribute further if you wish to <3 
+I've revisited my work for others to contribute or use as a precaution and uploaded it to GitHub.
     
 ### Related Discussions
 This comment ([By Patriot-Bigglesworth on WoW US Forums](https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/2)) highlights the change perfectly, with the 400ms spell batching removed extra attack mechanics have become more noticable as spikes in tank damage increased.
