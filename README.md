@@ -1,16 +1,16 @@
 1. [Disclaimer](#disclaimer)  
 2. [About](#about)  
-    2.1. [Related Discussions](#related-discussions)
-    2.2. [Other Discussions](#other-discussions)
-4. [Mechanics](#mechanics)  
+    2.1. [Related Discussions](#related-discussions)  
+    2.2. [Other Discussions](#other-discussions)  
+3. [Mechanics](#mechanics)  
     3.1. [Double Attack](#double-attack)  
-    3.2. [Thrash](#thrash)
-5. [Triple Attack creature list](#creatures-with-triple-attack-25175)  
-6. [Double Attack creature list](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
-7. [Thrash creature list](#creatures-with-thrash-3391-3417-8876-12787)
-8. [Missing Zone Data](#missing-zone-data)
-   
+    3.2. [Thrash](#thrash)  
+4. [Triple Attack creature list](#creatures-with-triple-attack-25175)  
+5. [Double Attack creature list](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
+6. [Thrash creature list](#creatures-with-thrash-3391-3417-8876-12787)  
+7. [Missing Zone Data](#missing-zone-data)  
 
+---
 
 ## Disclaimer
 ---
@@ -81,20 +81,22 @@ I also don’t see anything linking any of the “Double Attack” abilties I ca
 Do you have any good source for thinking that Sapphiron has a chance of a “Double Attack”?
 ```
 
+<a id="other-discussions"></a>  
 <details>
 <summary><b>Other Discussions</b></summary>
     
-- [Bosses attacking multiple times in a single game tick](https://us.forums.blizzard.com/en/wow/t/bosses-attacking-multiple-times-in-a-single-game-tick/950010)
-- [Do raid bosses have Windfury now?](https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984)
-- [Maexxna and Sapphiron double attack hidden ability](https://us.forums.blizzard.com/en/wow/t/maexxna-and-sapphiron-double-attack-hidden-ability/946089)
-- [Mobs damaging 3 times in one hit](https://us.forums.blizzard.com/en/wow/t/mobs-damaging-3-times-in-one-hit/317090)
-- [Need help, anyone else dealing with double melee?](https://www.reddit.com/r/classicwowtbc/comments/pxo4hb/need_help_anyone_else_dealing_with_double_melee/)
-- [Do raid bosses have Wind Fury now?](https://www.reddit.com/r/classicwow/comments/mwlvtd/do_raid_bosses_have_wind_fury_now/)
-- [Possible bug, Sapphiron did an unprecedented](https://www.reddit.com/r/classicwow/comments/z3xenj/possible_bug_sapphiron_did_an_unprecedented/)
-- [Classic Era Twin Emp Veknilash Thrash ability](https://us.forums.blizzard.com/en/wow/t/classic-era-twin-emp-veknilash-thrash-ability/1719134)
-- [How to not get oneshotted on Twins?](https://www.reddit.com/r/classicwow/comments/joiawa/how_to_not_get_oneshotted_on_twins/?rdt=32881)
+- [Bosses attacking multiple times in a single game tick](https://us.forums.blizzard.com/en/wow/t/bosses-attacking-multiple-times-in-a-single-game-tick/950010)  
+- [Do raid bosses have Windfury now?](https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984)  
+- [Maexxna and Sapphiron double attack hidden ability](https://us.forums.blizzard.com/en/wow/t/maexxna-and-sapphiron-double-attack-hidden-ability/946089)  
+- [Mobs damaging 3 times in one hit](https://us.forums.blizzard.com/en/wow/t/mobs-damaging-3-times-in-one-hit/317090)  
+- [Need help, anyone else dealing with double melee?](https://www.reddit.com/r/classicwowtbc/comments/pxo4hb/need_help_anyone_else_dealing_with_double_melee/)  
+- [Do raid bosses have Wind Fury now?](https://www.reddit.com/r/classicwow/comments/mwlvtd/do_raid_bosses_have_wind_fury_now/)  
+- [Possible bug, Sapphiron did an unprecedented](https://www.reddit.com/r/classicwow/comments/z3xenj/possible_bug_sapphiron_did_an_unprecedented/)  
+- [Classic Era Twin Emp Veknilash Thrash ability](https://us.forums.blizzard.com/en/wow/t/classic-era-twin-emp-veknilash-thrash-ability/1719134)  
+- [How to not get oneshotted on Twins?](https://www.reddit.com/r/classicwow/comments/joiawa/how_to_not_get_oneshotted_on_twins/?rdt=32881)  
 
 </details>
+
 
 
 ## Mechanics
