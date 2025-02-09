@@ -108,7 +108,7 @@ _**For in-depth information about extra attack mechanics see [this wiki entry](h
 
 ### [Double Attack](https://www.wowhead.com/classic/spell=18941/double-attack)
 ---
-Based on datamined attributes I have reason to believe both Double Attack and Triple Attack share the same mechanics.
+Based on datamined attributes I believe that Double Attack and Triple Attack share the same mechanics
 
 **Double Attack Mechanics:**
 - Double Attack has a cooldown of 3 seconds.
