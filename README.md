@@ -121,6 +121,7 @@ Based on datamined attributes I have reason to believe both Double Attack and Tr
 | 19817 | 10%        |
   
 if creature has 18941 sniff found only trigger spell 
+If creature has 18941, sniff has only found the triggered spell.
 
 ### [Thrash](https://www.wowhead.com/classic/spell=3391/thrash)
 **Thrash Mechanics:**
@@ -136,6 +137,7 @@ if creature has 18941 sniff found only trigger spell
 | 3417 | 10%        |
 
 if creature has 3391 sniff found only trigger spell 
+If creature has 3391, sniff has only found the triggered spell.
 
 ## Creatures with Triple Attack (25175)
 ---
