@@ -106,7 +106,7 @@ Do you have any good source for thinking that Sapphiron has a chance of a “Dou
 
 _**For in-depth information about extra attack mechanics see [this wiki entry](https://github.com/magey/classic-warrior/wiki/Windfury-Totem) by Magey.**_
 
-### [Double Attack](https://www.wowhead.com/classic/spell=18941/double-attack)
+### [Double Attack](https://github.com/Poli93/Extra-Attacks-Research/issues/1)
 ---
 Based on datamined attributes I suspect both Double Attack and Triple Attack share the same mechanics
 
@@ -123,7 +123,7 @@ Based on datamined attributes I suspect both Double Attack and Triple Attack sha
 | 19817 | 10%        |
 
 
-### [Thrash](https://www.wowhead.com/classic/spell=3391/thrash)
+### [Thrash](https://github.com/Poli93/Extra-Attacks-Research/issues/4)
 ---
 **Thrash Mechanics:**
 - Thrash has a cooldown of 4 seconds.
