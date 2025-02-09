@@ -32,6 +32,7 @@ While gathering data/researching for my addon ([Classic Thrash Tracker](https://
 I've revisited my work for others to contribute or use as a precaution and uploaded it to GitHub.
 
 ### Related Discussions
+---
 This comment ([By Patriot-Bigglesworth on WoW US Forums](https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984/2)) highlights the change perfectly, with the 400ms spell batching removed extra attack mechanics have become more noticable as spikes in tank damage increased.
 
 ```
@@ -106,6 +107,7 @@ Do you have any good source for thinking that Sapphiron has a chance of a “Dou
 _**For in-depth information about extra attack mechanics see [this wiki entry](https://github.com/magey/classic-warrior/wiki/Windfury-Totem) by Magey.**_
 
 ### [Double Attack](https://www.wowhead.com/classic/spell=18941/double-attack)
+---
 Based on datamined attributes I have reason to believe both Double Attack and Triple Attack share the same mechanics.
 
 **Double Attack Mechanics:**
@@ -124,6 +126,7 @@ if creature has 18941 sniff found only trigger spell
 If creature has 18941, sniff has only found the triggered spell.
 
 ### [Thrash](https://www.wowhead.com/classic/spell=3391/thrash)
+---
 **Thrash Mechanics:**
 - Thrash has a cooldown of 4 seconds.
 - Stacks up to 2.
