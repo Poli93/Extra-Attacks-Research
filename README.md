@@ -26,8 +26,8 @@ Note: Most of these monsters can also “store” these procs and unleash them a
  An example of this is the Princess Theradras encounter in Maraudon.
 The Princess will store her attacks if kited and can land several attacks instantly when she catches up to her target. This behavior is consistent with the reference client
 ```
-Some creatures have either Thrash or a hidden extra attack mechanic, those hidden mechanics were mostly unnoticied with the 400ms batching, but as Blizzard removed batching in WoW Classic these mechanics have become easily noticeable.  
-While gathering data/researching  for my addon ([Classic Thrash Tracker](https://www.curseforge.com/wow/addons/classic-thrash-tracker)) during Unofficial Hardcore I found other extra attack abilities that weren't documentated elsewhere besides a couple of [discussions by players](#related-discussions)  on different platforms. At the time, I wasn't able to gather my data and publish due to other priorities, but now that Classic is back, I've gathered my work for others to take as a precaution or contribute further if you wish to <3 
+Some creatures have either Thrash or a hidden extra attack mechanic, those hidden mechanics were mostly unnoticied prior to the 400ms batching removal, but as Blizzard removed batching in WoW Classic these mechanics have become more easily noticeable.  
+While gathering data/researching for my addon ([Classic Thrash Tracker](https://www.curseforge.com/wow/addons/classic-thrash-tracker)) during Unofficial Hardcore I found other extra attack abilities that weren't documentated elsewhere besides mentions in a couple of [discussions by players](#related-discussions)  on different platforms. At the time, I wasn't able to gather my data and publish due to other priorities, but now that Classic is back, I've gathered my work for others to take as a precaution or contribute further if you wish to <3 
 I've revisited my work for others to contribute or use as a precaution and uploaded it to GitHub.
     
 ### Related Discussions
@@ -165,6 +165,7 @@ creatures with Triple Attack cased by proc chance, PPM, level & zone
 
 ## Creatures with Double Attack (19818, 19817, 19194, 18943, 18941)
 ---
+creatures with Double Attack cased by proc chance, PPM, level & zone
 | name | id | auras | level | zone | proc_chance | ppm | 
 | --- | ---: | --- | ---: | --- | --- | --- | 
 | Lava Annihilator | 11665 | 19194 19195 | 62 | Molten Core | 100 | 20.00 | 
@@ -207,6 +208,7 @@ creatures with Triple Attack cased by proc chance, PPM, level & zone
 
 ## Creatures with Thrash (3391, 3417, 8876, 12787)
 ---
+creatures with Thrash cased by proc chance, PPM, level & zone
 | name | id | auras | level | zone | proc_chance | ppm | 
 | --- | ---: | --- | ---: | --- | --- | --- | 
 | Jekyll Flandring | 13219 | 12787 | 58 | Eastern Kingdoms | 35 | 5.25 | 
