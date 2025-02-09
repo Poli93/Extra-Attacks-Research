@@ -137,6 +137,8 @@ Based on datamined attributes I suspect both Double Attack and Triple Attack sha
 | 8876 | 15%        |
 | 3417 | 10%        |
 
+Per my observations, 12787 seems to only proc from melee attacks and not while the mob is being kited (see https://github.com/Poli93/Extra-Attacks-Research/issues/4#issuecomment-2646149758)
+
 ## Creatures with Triple Attack (25175)
 ---
 creatures with Triple Attack cased by proc chance, PPM, level & zone
