@@ -1,4 +1,4 @@
--- mobs with Thrash mobs cased by proc chance, PPM, level & zone
+-- mobs with Thrash cased by proc chance, PPM, level & zone
 SELECT DISTINCT
     sp.name, 
     sp.id, 
