@@ -4,10 +4,10 @@
 3. [Mechanics](#mechanics)  
     3.1. [Double Attack](#double-attack)  
     3.2. [Thrash](#thrash)
-4. [Missing Zone Data](#missing-zone-data)
-5. [Triple Attack creature list](#creatures-with-triple-attack-25175)  
-6. [Double Attack creature list](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
-7. [Thrash creature list](#creatures-with-thrash-3391-3417-8876-12787)
+4. [Triple Attack creature list](#creatures-with-triple-attack-25175)  
+5. [Double Attack creature list](#creatures-with-double-attack-19818-19817-19194-18943-18941)  
+6. [Thrash creature list](#creatures-with-thrash-3391-3417-8876-12787)
+7. [Missing Zone Data](#missing-zone-data)
    
 
 
