@@ -80,12 +80,17 @@ I also don’t see anything linking any of the “Double Attack” abilties I ca
 Do you have any good source for thinking that Sapphiron has a chance of a “Double Attack”?
 ```
 
+<style>
+  summary.custom-summary {
+    font-size: 1.8em;
+    font-weight: bold;
+  }
+</style>
+
 <details>
-  <summary style="font-size: 1.8em; font-weight: bold; display: inline-block;">Other Discussions</summary>
+  <summary class="custom-summary">Other Discussions</summary>
   This is some hidden content.
 </details>
-
-
 
 
 - [Bosses attacking multiple times in a single game tick](https://us.forums.blizzard.com/en/wow/t/bosses-attacking-multiple-times-in-a-single-game-tick/950010)
