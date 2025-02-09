@@ -122,7 +122,7 @@ DOUBLE ATTACK:
 - Stores procs until instance or server reset.
 - Thrash has a cooldown of 4 seconds.
 
-From personal observations while testing I suspect ID 12787 doesn't proc unless the creature melees and cannot be 
+Based on in-game observations while testing I have reason to believe ID 12787 doesn't proc if the creature is being kited or doesn't melee. It would also behave like Double Attack and won't proc if the hit is absorbed. (unlike other Thrash spellids)
     8876 -15% proc 4 cd
     3417 - 10% proc 4 cd
     12787 =  melee version
