@@ -108,17 +108,20 @@ _**For in-depth information about extra attack mechanics see [this wiki entry](h
 ### [Double Attack](https://www.wowhead.com/classic/spell=18941/double-attack)
 suspect both Double Attack and Triple Attack share the same mechanics. 
 DOUBLE ATTACK
-19194 = 100% proc 3 cd
-18943 = 50% proc 3 cd
-19818 = 25% proc 3 cd
-19817 = 10% proc 3 cd
+
+    19194 = 100% proc 3 cd
+    18943 = 50% proc 3 cd
+    19818 = 25% proc 3 cd
+    19817 = 10% proc 3 cd
 - Doesn't proc if the hit is fully absorb.
+- Double Attack has a cooldown of 3 seconds.
 
 18941 TRIGGER SPELL
 ### [Thrash](https://www.wowhead.com/classic/spell=3391/thrash)
 **Thrash Mechanics:**
 - Stacks up to 2.
 - Stores procs until instance or server reset.
+- Thrash has a cooldown of 4 seconds.
 
 From personal observations while testing I suspect ID 12787 doesn't proc unless the creature melees and cannot be 
 8876 -15% proc 4 cd
