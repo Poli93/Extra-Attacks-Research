@@ -1,4 +1,4 @@
--- mobs with Triple Attack mobs cased by proc chance, PPM, level & zone
+-- mobs with Triple Attack cased by proc chance, PPM, level & zone
 SELECT DISTINCT
     sp.name, 
     sp.id, 
