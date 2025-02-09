@@ -81,7 +81,12 @@ Do you have any good source for thinking that Sapphiron has a chance of a “Dou
 ```
 
 <details>
-<summary><b>Other Discussions</b></summary>
+  <summary style="font-size: 1.8em; font-weight: bold; display: inline-block;">Other Discussions</summary>
+  This is some hidden content.
+</details>
+
+
+
 
 - [Bosses attacking multiple times in a single game tick](https://us.forums.blizzard.com/en/wow/t/bosses-attacking-multiple-times-in-a-single-game-tick/950010)
 - [Do raid bosses have Windfury now?](https://us.forums.blizzard.com/en/wow/t/do-raid-bosses-have-windfury-now/945984)
