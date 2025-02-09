@@ -1,4 +1,4 @@
--- mobs with Double Attack mobs cased by proc chance, PPM, level & zone
+-- mobs with Double Attack cased by proc chance, PPM, level & zone
 SELECT DISTINCT
     sp.name, 
     sp.id, 
