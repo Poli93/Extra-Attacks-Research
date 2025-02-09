@@ -96,7 +96,7 @@ Do you have any good source for thinking that Sapphiron has a chance of a “Dou
 - [Possible bug, Sapphiron did an unprecedented](https://www.reddit.com/r/classicwow/comments/z3xenj/possible_bug_sapphiron_did_an_unprecedented/)  
 - [Classic Era Twin Emp Veknilash Thrash ability](https://us.forums.blizzard.com/en/wow/t/classic-era-twin-emp-veknilash-thrash-ability/1719134)  
 - [How to not get oneshotted on Twins?](https://www.reddit.com/r/classicwow/comments/joiawa/how_to_not_get_oneshotted_on_twins/?rdt=32881)
-- 
+  
 </details>
 
 
