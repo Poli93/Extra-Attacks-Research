@@ -27,9 +27,10 @@ Note: Most of these monsters can also “store” these procs and unleash them a
  An example of this is the Princess Theradras encounter in Maraudon.
 The Princess will store her attacks if kited and can land several attacks instantly when she catches up to her target. This behavior is consistent with the reference client
 ```
-Some creatures have either Thrash or a hidden extra attack mechanic, those hidden mechanics were mostly unnoticied prior to the 400ms batching removal, but as Blizzard removed batching in WoW Classic these mechanics have become more easily noticeable.  
-While gathering data/researching for my addon ([Classic Thrash Tracker](https://www.curseforge.com/wow/addons/classic-thrash-tracker)) during Unofficial Hardcore I found other extra attack abilities that weren't documentated elsewhere besides a couple of mentions in [discussions by players](#related-discussions) on different platforms. At the time, I wasn't able to gather my data and publish due to other priorities, but now that Classic is back, I've gathered my work for others to take as a precaution or contribute further if you wish to <3 
-I've revisited my work for others to contribute or use as a precaution and uploaded it to GitHub.
+
+Some creatures in WoW Classic have either [Thrash](https://wowwiki-archive.fandom.com/wiki/Thrash) or a hidden extra attack mechanic. These mechanics were mostly unnoticed prior to the removal of 400ms batching. But with Blizzard’s removal of batching in WoW Classic, these mechanics have become much more noticeable.
+
+Through researching for my addon ([Classic Thrash Tracker](https://www.curseforge.com/wow/addons/classic-thrash-tracker)) during Unofficial Hardcore,I found additional extra attack abilities. While these abilities were only briefly mentioned by players on forum discussions, there was no data available elsewhere. Due to personal circumstances at the time, I wasn't able to prioritize gathering and publishing my findings. But now, with Classic Fresh, I've compiled my research and uploaded it to GitHub for others to use as a precaution or contribute to further research <3
 
 ### Related Discussions
 ---
@@ -94,10 +95,9 @@ Do you have any good source for thinking that Sapphiron has a chance of a “Dou
 - [Do raid bosses have Wind Fury now?](https://www.reddit.com/r/classicwow/comments/mwlvtd/do_raid_bosses_have_wind_fury_now/)  
 - [Possible bug, Sapphiron did an unprecedented](https://www.reddit.com/r/classicwow/comments/z3xenj/possible_bug_sapphiron_did_an_unprecedented/)  
 - [Classic Era Twin Emp Veknilash Thrash ability](https://us.forums.blizzard.com/en/wow/t/classic-era-twin-emp-veknilash-thrash-ability/1719134)  
-- [How to not get oneshotted on Twins?](https://www.reddit.com/r/classicwow/comments/joiawa/how_to_not_get_oneshotted_on_twins/?rdt=32881)  
-
+- [How to not get oneshotted on Twins?](https://www.reddit.com/r/classicwow/comments/joiawa/how_to_not_get_oneshotted_on_twins/?rdt=32881)
+- 
 </details>
-
 
 
 ## Mechanics
@@ -121,9 +121,7 @@ Based on datamined attributes I have reason to believe both Double Attack and Tr
 | 18943 | 50%        |
 | 19818 | 25%        |
 | 19817 | 10%        |
-  
-if creature has 18941 sniff found only trigger spell 
-If creature has 18941, sniff has only found the triggered spell.
+
 
 ### [Thrash](https://www.wowhead.com/classic/spell=3391/thrash)
 ---
@@ -138,9 +136,6 @@ If creature has 18941, sniff has only found the triggered spell.
 | 12787 | 35%       |
 | 8876 | 15%        |
 | 3417 | 10%        |
-
-if creature has 3391 sniff found only trigger spell 
-If creature has 3391, sniff has only found the triggered spell.
 
 ## Creatures with Triple Attack (25175)
 ---
