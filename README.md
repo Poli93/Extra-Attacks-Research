@@ -113,10 +113,12 @@ Based on datamined attributes I have reason to believe both Double Attack and Tr
 - Doesn't proc if the hit is fully absorb.
 
 **SpellIDs:**
-    19194 = 100% proc 3 cd
-    18943 = 50% proc 3 cd
-    19818 = 25% proc 3 cd
-    19817 = 10% proc 3 cd
+| id    | proc |
+|-------|------------:|
+| 19194 | 100%       |
+| 18943 | 50%        |
+| 19818 | 25%        |
+| 19817 | 10%        |
   
 if creature has 18941 sniff found only trigger spell 
 
@@ -126,12 +128,14 @@ if creature has 18941 sniff found only trigger spell
 - Stacks up to 2.
 - Stores procs until instance or server reset.
 
-
 **SpellIDs:**
-    8876 = 15% proc
-    3417 = 10% proc
-    12787 = 35% proc 
-    if creature has 3391 sniff found only trigger spell 
+| id    | proc |
+|-------|------------:|
+| 12787 | 35%       |
+| 8876 | 15%        |
+| 3417 | 10%        |
+
+if creature has 3391 sniff found only trigger spell 
 
 ## Creatures with Triple Attack (25175)
 ---
