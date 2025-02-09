@@ -2,7 +2,7 @@
 2. [About](#about)  
     2.1. [Related Discussions](#related-discussions)  
     2.2. [Other Discussions](#other-discussions)  
-3. [Mechanics](#mechanics)  
+3. [Extra Attacks](#extra-attacks)  
     3.1. [Double Attack](#double-attack)  
     3.2. [Thrash](#thrash)  
 4. [Triple Attack creature list](#creatures-with-triple-attack-25175)  
@@ -100,7 +100,7 @@ Do you have any good source for thinking that Sapphiron has a chance of a “Dou
 </details>
 
 
-## Mechanics
+## Extra Attacks
 ---
 ```In the context of vanilla/classic WoW an extra attack is not really an additional attack, but instead when you gain an extra attack the game finishes your swing timer immediately so you swing right away and the swing timer resets. This behavior extends to on-next-swing attacks since they follow your swing timer; when you have e.g. Heroic Strike queued and you use an instant attack like Bloodthirst which procs Windfury the Heroic Strike happens immediately instead of an 'extra' white hit assuming you had enough rage for it when the proc occurred.```
 
