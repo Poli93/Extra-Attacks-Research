@@ -30,7 +30,7 @@ The Princess will store her attacks if kited and can land several attacks instan
 
 Some creatures in WoW Classic have either [Thrash](https://wowwiki-archive.fandom.com/wiki/Thrash) or a hidden extra attack mechanic. These mechanics were mostly unnoticed prior to the removal of 400ms batching. But with Blizzard’s removal of batching in WoW Classic, these mechanics have become much more noticeable.
 
-Through researching for my addon ([Classic Thrash Tracker](https://www.curseforge.com/wow/addons/classic-thrash-tracker)) during Unofficial Hardcore,I found additional extra attack abilities. While these abilities were only briefly mentioned by players on forum discussions, there was no data available elsewhere. Due to personal circumstances at the time, I wasn't able to prioritize gathering and publishing my findings. But now, with Classic Fresh, I've compiled my research and uploaded it to GitHub for others to use as a precaution or contribute to further research <3
+Through researching for my addon ([Classic Thrash Tracker](https://www.curseforge.com/wow/addons/classic-thrash-tracker)) during Unofficial Hardcore,I found additional extra attack abilities. While these abilities were only briefly mentioned by players on forum discussions, there was no data available elsewhere. Due to personal circumstances at the time, I wasn't able to prioritize gathering and publishing my findings. But now, with Classic Fresh, I've compiled my research and uploaded it to GitHub for others to use as a precaution or contribute to further research.
 
 ### Related Discussions
 ---
