@@ -475,7 +475,7 @@ creatures with Thrash cased by proc chance, PPM, level & zone
 | Zulian Prowler | 15101 | 3391 | 60 | Zul'Gurub | ? | ? | 
 
 ## Missing Zone Data
-Following zones are missing creature data from the packet sniff.
+Following zones are missing creature data from the packet sniffs.
 
 ---
 | Map Name | 
