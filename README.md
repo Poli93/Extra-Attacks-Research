@@ -107,14 +107,14 @@ _**For in-depth information about extra attack mechanics see [this wiki entry](h
 - Doesn't proc if the hit is fully absorb.
 - Double Attack has a cooldown of 3 seconds.
 - 
-Based on datamined attributes I have reason to believe both Double Attack and Triple Attack share the same mechanics. 
-DOUBLE ATTACK:
+Based on datamined attributes I have reason to believe both Double Attack and Triple Attack share the same mechanics.
+**SpellIDs:**
     19194 = 100% proc 3 cd
     18943 = 50% proc 3 cd
     19818 = 25% proc 3 cd
     19817 = 10% proc 3 cd
-    
-18941 TRIGGER SPELL
+  
+if creature has 18941 sniff found only trigger spell 
 
 ### [Thrash](https://www.wowhead.com/classic/spell=3391/thrash)
 **Thrash Mechanics:**
@@ -122,15 +122,11 @@ DOUBLE ATTACK:
 - Stores procs until instance or server reset.
 - Thrash has a cooldown of 4 seconds.
 
-Based on in-game observations while testing I have reason to believe ID 12787 doesn't proc if the creature is being kited or doesn't melee. It would also behave like Double Attack and won't proc if the hit is absorbed. (unlike other Thrash spellids)
-    8876 -15% proc 4 cd
-    3417 - 10% proc 4 cd
-    12787 =  melee version
-     if creature has 3391 sniff found only procced spell 
-
-3391 TRIGGER SPELL
-
- based on that id 12xxx doesn't proc if the creature doesn't melee/being kited I can assume it would also behave like a standard Double Attack and won't proc if the hit is absorbed. 
+**SpellIDs:**
+    8876 = 15% proc
+    3417 = 10% proc
+    12787 = 35% proc 
+    if creature has 3391 sniff found only trigger spell 
 
 
 ## Missing Zone Data
