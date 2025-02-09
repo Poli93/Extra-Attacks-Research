@@ -103,11 +103,12 @@ Do you have any good source for thinking that Sapphiron has a chance of a “Dou
 _**For in-depth information about extra attack mechanics see [this wiki entry](https://github.com/magey/classic-warrior/wiki/Windfury-Totem) by Magey.**_
 
 ### [Double Attack](https://www.wowhead.com/classic/spell=18941/double-attack)
-**Double Attack Mechanics:**
-- Doesn't proc if the hit is fully absorb.
-- Double Attack has a cooldown of 3 seconds.
-- 
 Based on datamined attributes I have reason to believe both Double Attack and Triple Attack share the same mechanics.
+
+**Double Attack Mechanics:**
+- Double Attack has a cooldown of 3 seconds.
+- Doesn't proc if the hit is fully absorb.
+
 **SpellIDs:**
     19194 = 100% proc 3 cd
     18943 = 50% proc 3 cd
@@ -118,9 +119,10 @@ if creature has 18941 sniff found only trigger spell
 
 ### [Thrash](https://www.wowhead.com/classic/spell=3391/thrash)
 **Thrash Mechanics:**
+- Thrash has a cooldown of 4 seconds.
 - Stacks up to 2.
 - Stores procs until instance or server reset.
-- Thrash has a cooldown of 4 seconds.
+
 
 **SpellIDs:**
     8876 = 15% proc
