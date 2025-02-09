@@ -96,9 +96,6 @@ Do you have any good source for thinking that Sapphiron has a chance of a “Dou
 </details>
 
 
-
-
-
 ## Mechanics
 ---
 ```In the context of vanilla/classic WoW an extra attack is not really an additional attack, but instead when you gain an extra attack the game finishes your swing timer immediately so you swing right away and the swing timer resets. This behavior extends to on-next-swing attacks since they follow your swing timer; when you have e.g. Heroic Strike queued and you use an instant attack like Bloodthirst which procs Windfury the Heroic Strike happens immediately instead of an 'extra' white hit assuming you had enough rage for it when the proc occurred.```
@@ -106,17 +103,19 @@ Do you have any good source for thinking that Sapphiron has a chance of a “Dou
 _**For in-depth information about extra attack mechanics see [this wiki entry](https://github.com/magey/classic-warrior/wiki/Windfury-Totem) by Magey.**_
 
 ### [Double Attack](https://www.wowhead.com/classic/spell=18941/double-attack)
-suspect both Double Attack and Triple Attack share the same mechanics. 
-DOUBLE ATTACK
-
+**Double Attack Mechanics:**
+- Doesn't proc if the hit is fully absorb.
+- Double Attack has a cooldown of 3 seconds.
+- 
+Based on datamined attributes I have reason to believe both Double Attack and Triple Attack share the same mechanics. 
+DOUBLE ATTACK:
     19194 = 100% proc 3 cd
     18943 = 50% proc 3 cd
     19818 = 25% proc 3 cd
     19817 = 10% proc 3 cd
-- Doesn't proc if the hit is fully absorb.
-- Double Attack has a cooldown of 3 seconds.
-
+    
 18941 TRIGGER SPELL
+
 ### [Thrash](https://www.wowhead.com/classic/spell=3391/thrash)
 **Thrash Mechanics:**
 - Stacks up to 2.
@@ -124,13 +123,12 @@ DOUBLE ATTACK
 - Thrash has a cooldown of 4 seconds.
 
 From personal observations while testing I suspect ID 12787 doesn't proc unless the creature melees and cannot be 
-8876 -15% proc 4 cd
-3417 - 10% proc 4 cd
+    8876 -15% proc 4 cd
+    3417 - 10% proc 4 cd
+    12787 =  melee version
+     if creature has 3391 sniff found only procced spell 
 
 3391 TRIGGER SPELL
-
-12787 =  melee version
- if creature has 3391 sniff found only procced spell 
 
  based on that id 12xxx doesn't proc if the creature doesn't melee/being kited I can assume it would also behave like a standard Double Attack and won't proc if the hit is absorbed. 
 
