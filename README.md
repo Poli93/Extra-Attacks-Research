@@ -14,7 +14,7 @@
 
 ## Disclaimer
 ---
-Following are lists of filtered data for creatures possessing Thrash or hidden extra attack spells based on parsed packet sniffs from Classic 2019 that do not exist elsewhere. There may be additional creatures with these abilities that are not included in this list, as they have not yet been found by a sniff
+Following are lists of filtered data for creatures possessing Thrash or hidden extra attack spells based on parsed packet sniffs from Classic 2019 that do not exist elsewhere. There may be additional creatures with these abilities that are not included in this list, as they have not yet been found by a sniff.
 
 This research only covers Classic Era creatures, examples like Morogrim (TBC) and Ignis (Wrath) will not be covered here.
 
