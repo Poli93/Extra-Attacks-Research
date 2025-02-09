@@ -130,27 +130,6 @@ if creature has 18941 sniff found only trigger spell
     12787 = 35% proc 
     if creature has 3391 sniff found only trigger spell 
 
-
-## Missing Zone Data
-Following zones are missing creature data from the packet sniff.
-
----
-| Map Name | 
-| --- | 
-| <unused> Monastery | 
-| <unused>StormwindPrison | 
-| Azshara Crater | 
-| CashTest | 
-| Caverns of Time | 
-| Collin's Test | 
-| Development Land | 
-| Emerald Dream | 
-| Gnomeregan | 
-| Horde PVP Barracks | 
-| Scott Test | 
-| Testing | 
-
-
 ## Creatures with Triple Attack (25175)
 ---
 creatures with Triple Attack cased by proc chance, PPM, level & zone
@@ -494,3 +473,22 @@ creatures with Thrash cased by proc chance, PPM, level & zone
 | Wildpaw Gnoll | 10991 | 3391 | 53 | Alterac Valley | ? | ? | 
 | Wildpaw Gnoll | 10991 | 3391 | 52 | Alterac Valley | ? | ? | 
 | Zulian Prowler | 15101 | 3391 | 60 | Zul'Gurub | ? | ? | 
+
+## Missing Zone Data
+Following zones are missing creature data from the packet sniff.
+
+---
+| Map Name | 
+| --- | 
+| <unused> Monastery | 
+| <unused>StormwindPrison | 
+| Azshara Crater | 
+| CashTest | 
+| Caverns of Time | 
+| Collin's Test | 
+| Development Land | 
+| Emerald Dream | 
+| Gnomeregan | 
+| Horde PVP Barracks | 
+| Scott Test | 
+| Testing | 
