@@ -112,7 +112,7 @@ Based on datamined attributes I suspect both Double Attack and Triple Attack sha
 
 **[Double Attack Mechanics:](https://github.com/Poli93/Extra-Attacks-Research/issues/1)**
 - Double Attack has a cooldown of 3 seconds.
-- Doesn't proc if the hit is fully absorb.
+- Doesn't proc if the hit is fully absorbed.
 
 **SpellIDs:**
 | id    | proc |
